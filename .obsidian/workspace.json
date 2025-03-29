@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "17f8c7f581afaeef",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cffbebe167cfa2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd68e9ef00ee864a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae0303c5f7850a87",
+    "type": "split",
+    "children": [
+      {
+        "id": "06a19a2ca54ae8fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0829afefe4934514",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9b67424ee76a82c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2b83a3fd06369245",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7db3ea6611a0816a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a808b27501f5873a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee062972b736b671",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "84e3db45bc70536b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9f08068272dc47f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e938b925c22474b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fd68e9ef00ee864a",
+  "lastOpenFiles": [
+    "Video Game/Book/1 - Outline/1-The Trials Outline.md",
+    "Book/Book/Characters/Main Characters/Roman Lokra.md",
+    "Book/Book/Characters/Main Characters/Michelle Eischnitz.md",
+    "Book/Book/Characters/Main Characters/Mark Langman.md",
+    "Book/Book/Characters/Main Characters/Leo Michalowicz.md",
+    "Book/Book/Thoughts & Ideas/Thoughts.md",
+    "Book/Book/Thoughts & Ideas/Rejuvenating mother.md",
+    "Book/Book/Thoughts & Ideas/Ideas.md",
+    "Book/Book/1 - Outline/Untitled.md",
+    "Book/Book/Creatures/Kyogi.md",
+    "Book/Book/1 - Outline/2- Arrival to MU Academy.md",
+    "Book/Book/Items/Smarkof.md",
+    "Book/Book/1 - Outline/1-The Trials Outline.md",
+    "Book/Book/1 - Outline/0-Macro Overview.md",
+    "Book/Book/Characters/Old man John.md",
+    "Book/Book/Characters/Main Characters",
+    "Book/Book/Characters/Carl Newman.md",
+    "Book/Book/Characters/0-Characters.md",
+    "Book/Book/Characters/Briana Johnson.md",
+    "Book/Book/Thoughts & Ideas",
+    "Book/Book/Items",
+    "Book/Book/Creatures",
+    "Book/Book/1 - Outline",
+    "Book/Book/Characters",
+    "Book/Book",
+    "Book",
+    "Nová složka",
+    "Book_Update/Random Thoughts/Just Random Thoughts/League of Legends Strategies/Untitled.md",
+    "Book_Update/Random Thoughts/Just Random Thoughts/League of Legends Strategies",
+    "Book_Update/Random Thoughts/Just Random Thoughts/weak side.md",
+    "Book_Update/Characters/Main Characters/Roman Lokra.md",
+    "Book_Update/Characters/Main Characters/Leo Michalowicz.md",
+    "Book_Update/Characters/Main Characters/Michelle Eischnitz.md",
+    "Book_Update/Characters/Main Characters/Mark Langman.md",
+    "Book_Update/Book/Chapter 2/Macro overview.md",
+    "Book_Update/Book/Chapter 2/IDEAS.md"
+  ]
+}

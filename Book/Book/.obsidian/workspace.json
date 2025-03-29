@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "b15c63ac428c3fd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "df29cbda38868ac8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dce058ab3182a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts & Ideas/Unused Spells.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Unused Spells"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8daa0eb0f2b0492a",
+    "type": "split",
+    "children": [
+      {
+        "id": "edc429dae1dcba85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb86ce7f61211446",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22cc12eabc0b078f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18140c1dc09aed7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "107b280004885734",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8aba2d96597b3d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc503a9b65e20a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Book/1 - Outline/2- Arrival to MU Academy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2- Arrival to MU Academy"
+            }
+          },
+          {
+            "id": "d94cd1ffe6c03875",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Book/1 - Outline/2- Arrival to MU Academy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2- Arrival to MU Academy"
+            }
+          },
+          {
+            "id": "007cfdcfbd50a6af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46e178dfb6382186",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Outline/2- Arrival to MU Academy.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2- Arrival to MU Academy"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2dce058ab3182a0b",
+  "lastOpenFiles": [
+    "Thoughts & Ideas/Thoughts.md",
+    "Thoughts & Ideas/Rejuvenating mother.md",
+    "Thoughts & Ideas/Magic System.md",
+    "Thoughts & Ideas/Ideas.md",
+    "Book/Thoughts & Ideas/Thoughts.md",
+    "Book/Thoughts & Ideas/Rejuvenating mother.md",
+    "Book/Thoughts & Ideas/Magic System.md",
+    "Book/Thoughts & Ideas/Ideas.md",
+    "Book/Characters/Main Characters/Michelle Eischnitz.md",
+    "Book/Characters/Main Characters/Mark Langman.md",
+    "Book/Characters/Main Characters/Leo Michalowicz.md",
+    "Book/Chapter 2/IDEAS.md",
+    "Chapter 2/Macro overview.md",
+    "Chapter 2/IDEAS.md",
+    "Chapter 2",
+    "Book/Chapter 2/Macro overview.md",
+    "Characters/Main Characters/Mark Langman.md",
+    "Characters/Main Characters/Leo Michalowicz.md",
+    "Characters/0-Characters.md",
+    "Characters/Main Characters/Roman Lokra.md",
+    "ozna.jpg",
+    "Characters/David Hayek.md",
+    "1 - Outline/2- Arrival to MU Academy.md",
+    "1 - Outline/Untitled.md",
+    "Characters/Main Characters/Michelle Eischnitz.md",
+    "Pasted image 20250223135222.png",
+    "Characters/Briana Johnson.md",
+    "Characters/Carl Newman.md",
+    "Ranking system.md",
+    "Writing tips",
+    "Thoughts & Ideas",
+    "Random Thoughts/Just Random Thoughts/League of Legends Strategies",
+    "Random Thoughts/Just Random Thoughts",
+    "Random Thoughts",
+    "Items",
+    "Creatures",
+    "Characters/Main Characters",
+    "Characters"
+  ]
+}

@@ -1,0 +1,1 @@
+Long ago a woman helped so many people. Thanks to her spells, but she did not realize that she was casting magic. She also helped someone who would later kill her. And because she helped so many people they began a sect and learned her spells in order to help others.

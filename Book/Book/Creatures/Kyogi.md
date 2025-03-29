@@ -1,0 +1,1 @@
+a four legged beast with wings, and the strength of ten black bears, they lay their eggs in a cave near a water source

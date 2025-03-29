@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "f6ee22e69ff62bde",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e28d98dc46c0a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d24ce8894c717dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINKS/24 width infantry Defense.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17c233ac97da2c6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a3dfea565ad2cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03bd586fb4b6ac8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c47c9052555f5683",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1a2d7971c735511",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "344ee6e3f17dddd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ea0d746d235b477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbba5bfb0a2264c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LINKS/24 width infantry Defense.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "163a47631b5a98d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LINKS/24 width infantry Defense.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66b089fe4ef623a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94c230555fc9ef07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LINKS/24 width infantry Defense.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d24ce8894c717dcb",
+  "lastOpenFiles": [
+    "LINKS/24 w off infantry.md",
+    "LINKS/24 width infantry Defense.md",
+    "LINKS/24 w offensive space marines.md",
+    "LINKS/40 w offensive.md",
+    "LINKS/27 w anti tank.md",
+    "LINKS/10w infantry defense.md",
+    "LINKS/34W Medium Tanks.md",
+    "Mountaniers.md",
+    "LINKS/34W Heavy Tanks.md",
+    "Garrisons.md",
+    "HOI 4/Builds.md",
+    "LINKS/24 mechanized.md",
+    "LINKS/34W Light Tanks.md",
+    "LINKS/24W Rocket Arty.md",
+    "HOI 4/HOI 4.md",
+    "Paratroopers.md",
+    "Marines.md",
+    "img/Pasted image 20240704133010.png",
+    "img/Pasted image 20240704133057.png",
+    "img/Pasted image 20240704133044.png",
+    "img/Pasted image 20240704132949.png",
+    "img/Pasted image 20240704131624.png",
+    "img/Pasted image 20240704132921.png",
+    "img/Pasted image 20240704132904.png",
+    "img/Pasted image 20240704132834.png",
+    "img/Pasted image 20240704132348.png",
+    "img/Pasted image 20240704131454.png",
+    "LINKS",
+    "img",
+    "HOI 4",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "b15c63ac428c3fd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "df29cbda38868ac8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ca75bc3b960a8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Characters/Main Characters/Leo Michalowicz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Leo Michalowicz"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8daa0eb0f2b0492a",
+    "type": "split",
+    "children": [
+      {
+        "id": "edc429dae1dcba85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb86ce7f61211446",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22cc12eabc0b078f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18140c1dc09aed7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "107b280004885734",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8aba2d96597b3d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc503a9b65e20a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Book/1 - Outline/2- Arrival to MU Academy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2- Arrival to MU Academy"
+            }
+          },
+          {
+            "id": "d94cd1ffe6c03875",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Book/1 - Outline/1-The Trials Outline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1-The Trials Outline"
+            }
+          },
+          {
+            "id": "007cfdcfbd50a6af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46e178dfb6382186",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Outline/2- Arrival to MU Academy.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2- Arrival to MU Academy"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb86ce7f61211446",
+  "lastOpenFiles": [
+    "Untitled",
+    "Book/Characters/Main Characters/Mark Langman.md",
+    "Book/Characters/Main Characters/Roman Lokra.md",
+    "Book/Characters/Students/Michelle Eischnitz.md",
+    "Book/1 - Outline/2- Arrival to MU Academy.md",
+    "Book/Characters/0-Characters.md",
+    "Book/Characters/Teachers/Old man John.md",
+    "Book/Characters/Students/David Hayek.md",
+    "Book/Characters/Students",
+    "Book/Characters/Teachers/Carl Newman.md",
+    "Book/Characters/Teachers/Carl Newman.md",
+    "Book/Characters/Teachers/Briana Johnson.md",
+    "Book/Characters/Teachers/Briana Johnson.md",
+    "Book/1 - Outline/1-The Trials Outline.md",
+    "Untitled.md",
+    "Book/Chapter 2/IDEAS.md",
+    "Book/Chapter 2/Macro overview.md",
+    "Books/Thoughts.pdf",
+    "Book/Writing tips/Tips.md",
+    "Book/Writing tips",
+    "Book/Thoughts & Ideas/Unused Spells.md",
+    "Book/Random Thoughts/Just Random Thoughts/League of Legends Strategies/Untitled.md",
+    "Book/Random Thoughts/Just Random Thoughts/League of Legends Strategies",
+    "Book/Random Thoughts/Just Random Thoughts/weak side.md",
+    "Book/Random Thoughts/Just Random Thoughts",
+    "Book/Random Thoughts",
+    "Book/Chapter 2",
+    "Book/Ranking system.md",
+    "Book/prestigious tournaments.md",
+    "Book/Pasted image 20250223135222.png",
+    "Book/ozna.jpg",
+    "Books/Rejuvenating mother.pdf",
+    "Books/Ideas.pdf",
+    "Books/1-The Trials Outline.pdf",
+    "Writing tips/Tips.md",
+    "Book/1 - Outline/Untitled.md",
+    "Book/1 - Outline/0-Macro Overview.md",
+    "Book/Characters/Main Characters/Leo Michalowicz.md"
+  ]
+}
