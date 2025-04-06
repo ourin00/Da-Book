@@ -11,10 +11,14 @@
             "id": "fd68e9ef00ee864a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learning Godot/GODOT.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GODOT"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -156,6 +161,7 @@
   },
   "active": "fd68e9ef00ee864a",
   "lastOpenFiles": [
+    "Pasted image 20250405232455.png",
     "Video Game/Book/1 - Outline/1-The Trials Outline.md",
     "Book/Book/Characters/Main Characters/Roman Lokra.md",
     "Book/Book/Characters/Main Characters/Michelle Eischnitz.md",
@@ -190,7 +196,6 @@
     "Book_Update/Characters/Main Characters/Leo Michalowicz.md",
     "Book_Update/Characters/Main Characters/Michelle Eischnitz.md",
     "Book_Update/Characters/Main Characters/Mark Langman.md",
-    "Book_Update/Book/Chapter 2/Macro overview.md",
-    "Book_Update/Book/Chapter 2/IDEAS.md"
+    "Book_Update/Book/Chapter 2/Macro overview.md"
   ]
 }

@@ -44,4 +44,124 @@ you have to use queue_free() method to delete them and free up the memory.(queue
 
 ## Naming conventions
 Can use longer names
-should avoid using comments to explain dfhdfg
+should avoid using comments to explain 
+
+## Match 
+depending on the value it executes the code
+match x:
+	1:
+		print(hello)
+		\_:
+		print (\_ is a wildcard)
+
+## Arrays 
+arrays can store multiple items together
+arrays can also contain elements of different data types
+![[Pasted image 20250405232455.png]]
+**Retrieving data from array**
+	filledArray # get the entire array
+	filledArray[0] get value at specific index 
+
+**Push and Pop array method**
+	Push adds element to either to the beginning or the end of an array
+	Pop removes and returns an element from the beginning or the end of an array
+	
+	var arrays   = [1,2,3,4,5]
+	
+	arrays.pop_back() [1,2,3,4]
+	arrays.pop_front() [2,3,4]
+	arrays.push_back(5) [2,3,4,5]
+	arrays.push_front(1) [1,2,3,4,5]
+
+**Clearing an array**
+	
+	var arrays = [1,2,3,4,5]
+	
+	arrays = [] 
+	arrays.resize(0)
+	arrays.clear()
+
+**Duplicating an array (deep copy)**
+	
+	var arrays = [1,2,3,4,5]
+	var duplicatedArray = arrays.duplicate(true)
+	to do a shallow copy set the true to false
+
+**Deep copy vs shallow copy**
+	Deep copy: all nested arrays and dictionaries are duplicated and will not be shared with the original array
+			shallow copy: refences to the original nested arrays and dictionaries are kept, so that modifying a subarray or dictionary in the copy will also impact those refences in the source array
+
+## Enums
+enums are data types that contain a fix set of constants
+good at assigning consecutive integers
+
+**How to declare an enum**
+	
+	enum {left, right, front, back} # Globally named
+	
+	same as writing the following
+	const left = 0
+	const right = 1
+	const front = 2
+	const back = 3
+
+**Declaring enums**
+	
+	enum {left, right, front = 10, back} # Globally named
+	
+	same as writing the following
+	const left = 0
+	const right = 1
+	const front = 10
+	const back = 11
+
+	#not globally set
+	enum MoveSet {letf, right, front, back}
+	MoveSet.left #0
+
+## Dictionaries
+Dictionaries are associative container that contains values referenced by unique keys
+also called a key-value store
+
+**Dictionary format**
+			key           value
+var name = { literal value : value }
+
+**Declaring Dictionaries**
+	
+	var emptyDictionary = {} # empty dic
+	var dictionaryContainer = {"name" : "John"}
+	var anotherContainer = {1 : "John"}
+	var complexContainer = {1:[1,2,3]}
+	#you can even add dictionaries into dictionaries
+
+**Accessing Dictionary**
+	
+	dictionaryContainer["name"] #returns "John"
+	anotherContainer[1] #returns "John"
+
+**Add key/value to existing Dictionary**
+	
+	dictionaryContainer.newKey = 100
+	dictionaryContainer["newKey"] = 100
+	
+	#you can add ints as a key
+	dictionaryContainer[1] = 100
+
+**Dictionary comparisons**
+	
+	dictionary1 == dictionary2
+	#returns false, even if the keys/value pair are the same in both dictionaries
+	
+	#Use the Hash method
+	dictionary1.hash() == dictionary2.hash()
+	#this will return true if the hashes are the same, and false if they are different
+
+**Clear dictionary**
+	
+	dictionary1.clear()
+
+**Erase a specific key in dictionary**
+	
+	#removes specific key/value pair
+	dictionary1.erase("key")
