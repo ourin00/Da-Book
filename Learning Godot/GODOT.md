@@ -165,3 +165,79 @@ var name = { literal value : value }
 	
 	#removes specific key/value pair
 	dictionary1.erase("key")
+
+## Functions
+are always part of a class
+can return data
+
+**Functions Format**
+	
+	func <name>(<parameter>):
+		pass
+	# pass keyword does nothing except prevents the compiler error from empty functions. Pass can also be used in loops to aboid the compiler errors as well
+
+**Pass Keyword**
+	
+	func <name>(<param>)
+		pass #does nothing
+		var x = 100 #executes
+
+**Creating a function with a specified return**
+	
+	func nameOfFunction() -> int:
+		return 100
+	#anything after the return keyword (return statement), will stop the function and retrun back that value when the function is called
+
+
+## Classes
+describes the contents of the objects that belong to it. 
+classes describe an aggregate of data fields such as variables and defines the operations such as methods
+think of a class as a blueprint for creating objects, with initial value states and implementation behavior
+
+By default, all script files are unnamed classes
+this means you can only reference them by using the file's path name: using absolute or relative path
+
+**absolute path** : "C:\Data\FilePath"
+**GDScripts:** "res://rootOfGDScriptProject.gd"
+**Relative Path** (starts on folder of file): "./FilePath.gd"
+
+
+**Register Scripts as Class**
+if you want to give a name to a class use the class_name keyword followed by a unique name
+this will register your class name as a new type in Godot's editor. You can also add an icon image by using a comma followed by the image location
+
+You can use the new registered name in other scripts
+
+	
+	extends Player # you can inherit the class
+	var a = Player.new() create an instanced object
+
+
+use the class function to instance a class 
+its built in to classes
+	
+	var a = ClassName.new()
+
+**Extends keyword**
+	
+	# Inherists Node
+	extends Node
+	extends keyword is the life blood of a gdscript class. lets you use Godots global classes and use their methods
+
+**Inheritance in Godot**
+A class can inherit from the following:
+Global Class
+Another Class File
+An inner class inside another class file
+Multiple inheritance is not allowed
+
+**Inned Classes**
+a clas file can contain inner classes. Inner classes are defined using the class keyword. They can be instanced using the ClassName.new() function. 
+
+class innerClass:
+	keep it indented, acts like a class, can have member variables, functions
+
+**Virtual Method**
+Summary: A virtual method is a method that can be redifined in derived classes.
+
+A virtual method has an implementation in a base class as well as the derived class. it is used when a method's basic functionality is the same but sometimes more functionality is needed in the derived class
