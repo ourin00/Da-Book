@@ -4,7 +4,7 @@ Plot Outline
 
 First Draft
 
-  
+the academy takes 1 month, then they are free to take tasks either from the academy or as a freelancer
 
 Untitled Unmastered
 
