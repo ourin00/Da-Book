@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Book/Characters/Students/Michelle Eischnitz.md",
+                "file": "Book/Book/1 - Outline/1-The Trials Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Michelle Eischnitz"
+              "title": "1-The Trials Outline"
             }
           }
         ]
@@ -161,11 +161,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0829afefe4934514",
+  "active": "7ce3df41f108d502",
   "lastOpenFiles": [
-    "Book/Book/Characters/Students/David Hayek.md",
-    "Book/Book/1 - Outline/1-The Trials Outline.md",
     "Book/Book/1 - Outline/0-Macro Overview.md",
+    "Book/Book/1 - Outline/1-The Trials Outline.md",
+    "Book/Book/Chapter 2/IDEAS.md",
+    "Book/Book/Chapter 2/Macro overview.md",
+    "Book/Book/Characters/Students/Michelle Eischnitz.md",
+    "Book/Book/Characters/Students/David Hayek.md",
     "Book/Writing tips/Tips.md",
     "Book/prestigious tournaments.md",
     "Book/Untitled.md",
@@ -187,12 +190,9 @@
     "Book/Book/Characters/Teachers/Briana Johnson.md",
     "Book/Book/1 - Outline/Untitled.md",
     "Book/Book/Characters/0-Characters.md",
-    "Book/Book/Chapter 2/IDEAS.md",
-    "Book/Book/Chapter 2/Macro overview.md",
     "Video Game/Book/1 - Outline/1-The Trials Outline.md",
     "Book/Book/Thoughts & Ideas/Thoughts.md",
     "Book/Book/Thoughts & Ideas/Rejuvenating mother.md",
-    "Book/Book/Thoughts & Ideas/Ideas.md",
     "Book/Book/Characters/Main Characters",
     "Book/Book/Thoughts & Ideas",
     "Book/Book/Items",
