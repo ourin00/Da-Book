@@ -13,5 +13,18 @@ Untitled Unmastered
 Ourin
 
 
-1. Je pátek odpoledne ani mrak na světle modré obloze a mladý kluk, vysoký asi tak 180 cm, zbrkle běží po rušné ulici. Ze všech sil se snaží všem vyhnout, ale bohužel i přeš jeho všechno snažení se střetne se starší paní. "Moc se omlouvám, jste v pořádku?" Říká a zároveň ji pomáhá se zvednout. "Bože, vy mladí jste furt ve spěchu, jako by jste neměli ještě celý život před sebou." Paní si postěžovala. S úsměvem ji podal kabelku z černé kůže, už na ní byla vidět letá opotřebení, hlavně na uchu kde místo černé byla spíše šedá. "No víte, jak to je, my mladí musíme být všude co nejdřív." Odpovídá. "Ještě jednou se moc omlouvám." říká se skloněnou hlavou. "Ale nic se neděje, zažila jsem i horší věci." Odpovídá a zároveň mává svými vrásčitými rukama sem a tam. Oba dva se zasmáli a vydali se opačným směrem. Po chvilce dorazil do svého bytu. Sundal si modré džíny, na kterých čas zanechal svůj podpis - od bílých nití až po vybledlou modrou barvu. Z pravé kapsy vyndává malou kartu, rozměrově připomínající kreditku. První třetinu zabírá fotografie, na níž jsou vidět obsidiánové vlasy, důkladně sčesané dozadu. Na první pohled skrývají délku, avšak hustota prozrazuje skutečnou podstatu. Tmavě hnědé oči ladí s vlasy jako smyčce doplňující trumpety v symfonii barev. Při pohledu na nos nenajde člověk nic významného, působí spíše jako malý, ale důležitý detail na velkém plátně. Zato úsměvná ústa přivolávají veškerou pozornost a vyzařují mládenecký optimismus.
-   dvě třetiny jsou doplněny černým korporátním písmem: Leo Michalowicz, 24.5.2001,.  
+Byl pátek odpoledne, na světle modré obloze nebyl ani mráček. 
+Mladý kluk, vysoký asi sto osmdesát centimetrů, zbrkle běžel po rušné ulici. Ze všech sil se snažil všem vyhnout, ale i přes veškerou snahu se střetl se starší paní. 
+"Moc se omlouvám, jste v pořádku?" ihned se zeptal a pomohl jí vstát. 
+"Bože, vy mladí jste pořád ve spěchu, jako byste neměli ještě celý život před sebou," postěžovala si paní. 
+S úsměvem ji podal kabelku z černé kůže, na níž byla znát léta opotřebení, hlavně na uchu, kde místo černé byla spíše šedá. 
+"No to víte, my mladí musíme být všude co nejdřív," odvětil. 
+"Ještě jednou se moc omlouvám," dodal se skloněnou hlavou. 
+"Nic se neděje," uklidnila ho paní a zároveň mávla vrásčitýma rukama. 
+Oba se zasmáli a každý se vydal opačným směrem. Zanedlouho dorazil do svého bytu.
+Sundal si modré džíny, na kterých čas zanechal svůj podpis - od bílých nití až po vybledlou modrou barvu.
+Z pravé kapsy vyndal malou kartu, rozměrově připomínala kreditku. První třetinu zabírala fotografie, na níž byly vidět obsidiánové vlasy, důkladně sčesané dozadu. Na první pohled skrývaly délku, avšak hustota prozrazovala skutečnou podstatu. 
+Tmavě hnědé oči ladily s vlasy jako smyčce doplňující trumpety v symfonii barev.
+Při pohledu na nos nenašel člověk nic významného, působil spíše jako malý, ale důležitý detail na velkém plátně. 
+Zatímco úsměvná ústa přivolávala veškerou pozornost a vyzařovala mládenecký optimismus.
+Dvě třetiny byly doplněny černým korporátním písmem: Leo Michalowicz, 24.5.2001,.  
