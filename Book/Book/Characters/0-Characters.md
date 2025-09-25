@@ -2,7 +2,7 @@
 
 Main Character #1: 
 
-[[Leo Michalowicz]]
+[[Leo Piotrowski]]
 
 Side Character #1: 
 
