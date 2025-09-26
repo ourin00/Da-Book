@@ -5,8 +5,8 @@ Plot Outline
 First Draft
 
 Ideas
-	  1. konflikt - bude vůbec přijat do Michalovy akademie 
-	  The pledge
+	  konflikt - bude vůbec přijat do Michalovy akademie 
+	  Matka nechce aby její syn šel do akademie, zprvu je to velké finanční rozhodnutí ale potom se přizná, že se bojí, že přijde o svého syna protože to je zároveň nebezpečné a skoro každý týden někdo z akademie zemře
 
 Untitled Unmastered
 
@@ -55,3 +55,4 @@ V celé místnosti se nesl šepot: "sto třicet... sto čtyřicet... sto padesá
 
 Po chvilce ticha přišel zaslouženě dlouhý oddech, po němž následoval tentokrát už znatelný úsměv. Celý jeho obličej se rozzářil, jako by sám Son, bůh slunce, v ten okamžik vstoupil do Lea.
 
+Otočil se ke kuchyni, jen pár kroků od postele. Začal prohledávat kuchyňské zásuvky jednu po druhé, dokud nenarazil na to, co hledal. Vyndal bílou obálku pokrytou tenkou vrstvou prachu. Vrátil se k penězům a s trochou síly donutil obálku, aby nabrala na objemu. 

@@ -195,17 +195,18 @@
         "y": 16,
         "width": 600,
         "height": 600,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "7ce3df41f108d502",
+  "active": "8607129b9130287e",
   "lastOpenFiles": [
+    "Book/Book/Characters/Main Characters/Leo Piotrowski.md",
     "Book/Book/1 - Outline/1-The Trials Outline - CZ.md",
     "Book/Book/1 - Outline/1-The Trials Outline.md",
-    "Book/Book/Creatures/Untitled.md",
-    "Book/Book/Characters/Main Characters/Leo Piotrowski.md",
+    "main regions.md",
+    "Book/Book/Creatures/Son.md",
     "Book/Book/Characters/Main Characters/Mark Langman.md",
     "Book/Book/Characters/Main Characters/Michelle Eischnitz.md",
     "Book/Book/Characters/Main Characters/Roman Lokra.md",
@@ -218,7 +219,6 @@
     "Book/Writing tips/Tips.md",
     "Book/prestigious tournaments.md",
     "Book/Untitled.md",
-    "main regions.md",
     "Pasted image 20250405232455.png",
     "Video Game/Video Game/Video Game/To do.md",
     "Video Game/Video Game/Video Game/White Paper/White Paper.md",
