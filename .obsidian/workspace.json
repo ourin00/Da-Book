@@ -191,20 +191,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 464,
-        "y": 16,
+        "x": 621,
+        "y": 155,
         "width": 600,
         "height": 600,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "8607129b9130287e",
   "lastOpenFiles": [
-    "Book/Book/Characters/Main Characters/Leo Piotrowski.md",
-    "Book/Book/1 - Outline/1-The Trials Outline - CZ.md",
     "Book/Book/1 - Outline/1-The Trials Outline.md",
+    "Book/Book/1 - Outline/1-The Trials Outline - CZ.md",
+    "Book/Book/Characters/Main Characters/Leo Piotrowski.md",
     "main regions.md",
     "Book/Book/Creatures/Son.md",
     "Book/Book/Characters/Main Characters/Mark Langman.md",
