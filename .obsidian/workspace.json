@@ -162,19 +162,19 @@
     }
   },
   "floating": {
-    "id": "42544f8e2188e074",
+    "id": "7b804d60cab764e8",
     "type": "floating",
     "children": [
       {
-        "id": "548350e24937481e",
+        "id": "90d503ffa2e7bbfc",
         "type": "window",
         "children": [
           {
-            "id": "df7e9278018fc072",
+            "id": "7e57d711c2a4d42c",
             "type": "tabs",
             "children": [
               {
-                "id": "7ce3df41f108d502",
+                "id": "3c46b7cc41bdfc3d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -191,10 +191,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 621,
-        "y": 155,
-        "width": 600,
-        "height": 600,
+        "x": 457,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
         "maximize": true,
         "zoom": 0
       }
@@ -204,9 +204,11 @@
   "lastOpenFiles": [
     "Book/Book/1 - Outline/1-The Trials Outline.md",
     "Book/Book/1 - Outline/1-The Trials Outline - CZ.md",
+    "Book/Book/Creatures/Goj.md",
+    "Book/Book/Creatures/Kyogi.md",
+    "Book/Book/Creatures/Son.md",
     "Book/Book/Characters/Main Characters/Leo Piotrowski.md",
     "main regions.md",
-    "Book/Book/Creatures/Son.md",
     "Book/Book/Characters/Main Characters/Mark Langman.md",
     "Book/Book/Characters/Main Characters/Michelle Eischnitz.md",
     "Book/Book/Characters/Main Characters/Roman Lokra.md",
@@ -230,8 +232,6 @@
     "Book/Book/ozna.jpg",
     "Book/Book/Pasted image 20250223135222.png",
     "Book/Book/Characters/Teachers/Briana Johnson.md",
-    "Book/Book/Characters/0-Characters.md",
-    "Video Game/Book/1 - Outline/1-The Trials Outline.md",
     "Book/Book/Characters/Main Characters",
     "Book/Book/Thoughts & Ideas",
     "Book/Book/Items",

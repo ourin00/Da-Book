@@ -57,4 +57,8 @@ Po chvilce ticha přišel zaslouženě dlouhý oddech, po němž následoval ten
 
 Otočil se ke kuchyni, jen pár kroků od postele. Začal prohledávat kuchyňské zásuvky jednu po druhé, dokud nenarazil na to, co hledal. Vyndal bílou obálku pokrytou tenkou vrstvou prachu. Vrátil se k penězům a s trochou síly donutil obálku, aby nabrala na objemu. Obálku položil na postel.
 
-Z polorozpadlé skříně, která byla starší než Leo, vytáhl svůj jediný černý oblek a bílou košili v odstínu skořápky. Oba byly uloženy v průhledném igelitovém pytli, který pán času Goj pokryl silnou vrstvou prachu. Hadrem jej setřel a vyhnal Goje i jeho prachovou vrstvu a teprve poté opatrně vyndal oblek s košilí.
+Z polorozpadlé skříně, která byla starší než Leo, vytáhl svůj jediný černý oblek a bílou košili v odstínu skořápky. Oba byly uloženy v průhledném igelitovém pytli, který pán času Goj pokryl silnou vrstvou prachu. Hadrem jej setřel a vyhnal Goje i jeho prachovou vrstvu a teprve poté oblek s košilí opatrně vyndal a oblékl.
+
+V zrcadle si nejprve prohlédl tvář, uhladil vlasy a pak upřel pohled na oblek. Jemná textura vlněné látky a sytá černá barva nabyly elegance díky bílé košili, jež zářila jako maják uprostřed černého moře.
+
+Po krátkém sebehodnocením si sbalil jen to nejnutnější a vydal se na vlakové nádraží, vzdálené necelý kilometr západním směrem. Nedávná rekonstrukce proměnila kdysi zchátralé Karlovo nádraží v důstojné a moderní místo. V centru se tyčila mramorová socha Sona s napřažená rukou, v níž držel hůl se znakem vycházejícího slunce, jejíž hrot ukazoval k východu. 
