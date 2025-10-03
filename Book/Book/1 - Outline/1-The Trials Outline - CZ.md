@@ -59,7 +59,7 @@ Otočil se ke kuchyni, jen pár kroků od postele. Začal prohledávat kuchyňsk
 
 Z polorozpadlé skříně, která byla starší než Leo, vytáhl svůj jediný černý oblek a bílou košili v odstínu skořápky. Oba byly uloženy v průhledném igelitovém pytli, který pán času Goj pokryl silnou vrstvou prachu. Hadrem jej setřel a vyhnal Goje i jeho prachovou vrstvu a teprve poté oblek s košilí opatrně vyndal a oblékl.
 
-Při pohledu do zrcadla se mu na čele vytvořila drobná vesnička kapek potu, nad níž se tyčily rozcuchané vlasy připomínající černé blesky. Rychlým gestem pot setřel a vlasy uhladil. Když se zadíval na oblek, odhalila se diagonálně šitá vlněná látka evokující pohyb vln. Uprostřed toho temného oceánu zářila bílá košile jako maják, pevná, jasná a nepřehlédnutelná
+Při pohledu do zrcadla se mu na čele vytvořila drobná vesnička kapek potu, nad níž se tyčily rozcuchané vlasy připomínající černé blesky. Rychlým gestem pot setřel a vlasy uhladil. Při bližším pohledu na oblek se odhalila diagonálně šitá vlněná látka evokující pohyb vln. Uprostřed toho temného oceánu zářila bílá košile jako maják, pevná, jasná a nepřehlédnutelná
 
 Po krátkém sebehodnocením si sbalil jen to nejnutnější a vydal se na vlakové nádraží, vzdálené necelý kilometr západním směrem. Nedávná rekonstrukce proměnila kdysi zchátralé Karlovo nádraží v důstojné a moderní místo. V centru se tyčila mramorová socha Sona s napřažená rukou, v níž držel hůl se znakem vycházejícího slunce, jejíž hrot ukazoval k východu.
 
