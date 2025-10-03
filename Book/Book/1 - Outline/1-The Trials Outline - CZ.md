@@ -33,7 +33,7 @@ Oba se zasmáli a každý se vydal opačným směrem. Zanedlouho dorazil do své
 
 Sundal si modré džíny, na kterých čas zanechal svůj podpis - od bílých nití až po vybledlou modrou barvu.
 
-Z pravé přední kapsy vyndal malou kartu, rozměrově připomínala kreditku. První třetinu zabírala fotografie, na níž byly vidět obsidiánové vlasy, důkladně sčesané dozadu. Na první pohled skrývaly délku, avšak hustota prozrazovala skutečnou podstatu. 
+[^1]Z pravé přední kapsy vyndal malou kartu, rozměrově připomínala kreditku. První třetinu zabírala fotografie, na níž byly vidět obsidiánové vlasy, důkladně sčesané dozadu. Na první pohled skrývaly délku, avšak hustota prozrazovala skutečnou podstatu. 
 
 Tmavě hnědé oči ladily s vlasy jako smyčce doplňující trumpety v symfonii barev.
 
@@ -59,6 +59,11 @@ Otočil se ke kuchyni, jen pár kroků od postele. Začal prohledávat kuchyňsk
 
 Z polorozpadlé skříně, která byla starší než Leo, vytáhl svůj jediný černý oblek a bílou košili v odstínu skořápky. Oba byly uloženy v průhledném igelitovém pytli, který pán času Goj pokryl silnou vrstvou prachu. Hadrem jej setřel a vyhnal Goje i jeho prachovou vrstvu a teprve poté oblek s košilí opatrně vyndal a oblékl.
 
-V zrcadle si nejprve prohlédl tvář, uhladil vlasy a pak upřel pohled na oblek. Jemná textura vlněné látky a sytá černá barva nabyly elegance díky bílé košili, jež zářila jako maják uprostřed černého moře.
+Při pohledu do zrcadla se mu na čele vytvořila drobná vesnička kapek potu, nad níž se tyčily rozcuchané vlasy připomínající černé blesky. Rychlým gestem pot setřel a vlasy uhladil. Když se zadíval na oblek, odhalila se diagonálně šitá vlněná látka evokující pohyb vln. Uprostřed toho temného oceánu zářila bílá košile jako maják, pevná, jasná a nepřehlédnutelná
 
-Po krátkém sebehodnocením si sbalil jen to nejnutnější a vydal se na vlakové nádraží, vzdálené necelý kilometr západním směrem. Nedávná rekonstrukce proměnila kdysi zchátralé Karlovo nádraží v důstojné a moderní místo. V centru se tyčila mramorová socha Sona s napřažená rukou, v níž držel hůl se znakem vycházejícího slunce, jejíž hrot ukazoval k východu. 
+Po krátkém sebehodnocením si sbalil jen to nejnutnější a vydal se na vlakové nádraží, vzdálené necelý kilometr západním směrem. Nedávná rekonstrukce proměnila kdysi zchátralé Karlovo nádraží v důstojné a moderní místo. V centru se tyčila mramorová socha Sona s napřažená rukou, v níž držel hůl se znakem vycházejícího slunce, jejíž hrot ukazoval k východu.
+
+Vlak přijel se svým obvyklým zpožděním, jako by o jeho příjezdu rozhodoval spíše hod mincí než jízdní řád. Interiér neskrýval stopy svého stáří, a právě proto Leo vždy raději cestoval staršími vlaky. Vnímal je jako bránu do minulosti, kterou Goj odemykal - s tichým darem perspektivy pro technologický posun.
+
+[^1]: Určitě dobré přepsat, spíše zkrátit a spojit, není potřeba to mít rozdělené, stále se jedná o popis obličeje
+	
