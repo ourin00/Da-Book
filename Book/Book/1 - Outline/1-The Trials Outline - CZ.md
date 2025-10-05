@@ -13,23 +13,23 @@ Untitled Unmastered
 Ourin
 
 
-Byl pátek odpoledne, na světle modré obloze nebyl ani mráček. 
+Byl pátek odpoledne. Mraky odcestovaly na dovolenou a pódium obsadila světle modrá obloha, která k horizontu pozvolně bledla. 
 
-Mladý kluk, vysoký asi sto osmdesát centimetrů, zbrkle běžel po rušné ulici. Ze všech sil se snažil všem vyhnout, ale i přes veškerou snahu se střetl se starší paní. 
+Mladík, vysoký kolem sto osmdesát centimetrů, spěchal zbrkle po rušné ulici. Vyhýbal se kolemjdoucím, avšak nakonec se střetl se starší paní.
 
-"Moc se omlouvám, jste v pořádku?" ihned se zeptal a pomohl jí vstát. 
+"Moc se omlouvám, jste v pořádku?" zeptal se okamžitě a pomohl jí vstát. 
 
 "Bože, vy mladí jste pořád ve spěchu, jako byste neměli ještě celý život před sebou," postěžovala si paní. 
 
-S úsměvem ji podal kabelku z černé kůže, na níž byla znát léta opotřebení, hlavně na uchu, kde místo černé byla spíše šedá. 
+Podal jí kabelku z černé kůže, na níž byla znát léta opotřebení – především na uchu, kde černou barvu dávno nahradila šedá. 
 
-"No to víte, my mladí musíme být všude co nejdřív," odvětil. 
+"No to víte, my mladí musíme být všude co nejdřív," odpověděl s lehkým úsměvem. 
 
 "Ještě jednou se moc omlouvám," dodal se skloněnou hlavou. 
 
 "Nic se neděje," uklidnila ho paní a zároveň mávla vrásčitýma rukama. 
 
-Oba se zasmáli a každý se vydal opačným směrem. Zanedlouho dorazil do svého bytu.
+Oba se zasmáli a vydali se opačným směrem. Krátce poté dorazil do svého bytu.
 
 Sundal si modré džíny, na kterých čas zanechal svůj podpis - od bílých nití až po vybledlou modrou barvu.
 
