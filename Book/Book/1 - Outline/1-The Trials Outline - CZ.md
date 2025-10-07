@@ -67,5 +67,7 @@ Vlak přijel se svým obvyklým zpožděním, jako by o jeho příjezdu rozhodov
 
 Pomalu se odlepil od nástupiště v Syntře a vyrazil na sever, do města Göbre, rozloženého v Klinsku – třetí největší zemi celé říše. Klinsk si v kulinářském světě získal obdiv mottem: „Použij to, co najdeš za svým domem." Každý talíř zde připomínal jeviště, na němž vystupovaly dvě hlavní postavy – Jednoduchost a Přirozenost, vždy doprovázené pestrým sborem vedlejších aktérů.
 
+Bohužel dnes si Leovi chuťové buňky 
+
 [^1]: Určitě dobré přepsat, spíše zkrátit a spojit, není potřeba to mít rozdělené, stále se jedná o popis obličeje
 	
