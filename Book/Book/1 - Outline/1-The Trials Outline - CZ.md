@@ -63,11 +63,13 @@ Při pohledu do zrcadla se mu na čele vytvořila drobná vesnička kapek potu, 
 
 Po krátkém sebehodnocením si sbalil jen to nejnutnější a vydal se na vlakové nádraží, vzdálené necelý kilometr západním směrem. Nedávná rekonstrukce proměnila kdysi zchátralé Karlovo nádraží v důstojné a moderní místo. V centru se tyčila mramorová socha Sona s napřažená rukou, v níž držel hůl se znakem vycházejícího slunce, jejíž hrot ukazoval k východu.
 
-Vlak přijel se svým obvyklým zpožděním, jako by o jeho příjezdu rozhodoval spíše hod mincí než jízdní řád. Interiér neskrýval známky svého stáří, a právě proto Leo vždy raději cestoval staršími vlaky. Vnímal je jako bránu do minulosti, kterou Goj odemykal – s tichým darem perspektivy pro technologický posun.
+Vlak přijel se svým obvyklým zpožděním, jako by o jeho příjezdu rozhodoval spíše hod mincí než jízdní řád. Interiér neskrýval stopy svého stáří, a právě proto Leo vždy raději cestoval staršími vlaky. Vnímal je jako brány do minulostí, které Goj odemykal – s tichým darem perspektivy pro technologický posun.
 
 Pomalu se odlepil od nástupiště v Syntře a vyrazil na sever, do města Göbre, rozloženého v Klinsku – třetí největší zemi celé říše. Klinsk si v kulinářském světě získal obdiv mottem: „Použij to, co najdeš za svým domem." Každý talíř zde připomínal jeviště, na němž vystupovaly dvě hlavní postavy – Jednoduchost a Přirozenost, vždy doprovázené pestrým sborem vedlejších aktérů.
 
-Bohužel dnes si Leovi chuťové buňky 
+Dnes však Leovy chuťové buňky nečeká klinské divadelní představení. Zavítají do nostalgické minulosti, kde nevaří jen mamka, ale i celé generace, které tu zanechaly svá moudra. Tam, kde tradice vítězí nad inovací a babičky s prababičkami nadále žijí v receptech.
+
+Tříhodinová jízda vlakem uběhla hladce, jako po másle. Šeď metropole se po necelé hodině rozplynula v zelených loukách, střídajících se s poli brambor, kukuřice a zlatavého obilí. V dálce se táhly lesy – chvíli vládla svěží zeleň listnáčů, jindy temnější jehličí a když se obě barvy smířily, vznikl obraz tisíce odstínů zeleně.
 
 [^1]: Určitě dobré přepsat, spíše zkrátit a spojit, není potřeba to mít rozdělené, stále se jedná o popis obličeje
 	
