@@ -69,7 +69,7 @@ Pomalu se odlepil od nástupiště v Syntře a vyrazil na sever, do města Göbr
 
 Dnes však Leovy chuťové buňky nečeká klinské divadelní představení. Zavítají do nostalgické minulosti, kde nevaří jen mamka, ale i celé generace, které tu zanechaly svá moudra. Tam, kde tradice vítězí nad inovací a babičky s prababičkami nadále žijí v receptech.
 
-Tříhodinová jízda vlakem uběhla hladce, jako po másle. Šeď metropole se po necelé hodině rozplynula v zelených loukách, střídajících se s poli brambor, kukuřice a zlatavého obilí. V dálce se táhly lesy – chvíli vládla svěží zeleň listnáčů, jindy temnější jehličí a když se obě barvy smířily, vznikl obraz tisíce odstínů zeleně.
+Tříhodinová jízda vlakem uběhla hladce, jako po másle. Šeď metropole se po necelé hodině rozplynula v zelených loukách, střídajících se s poli brambor, kukuřice a zlatavého obilí. V dálce se táhly lesy – chvíli vládla svěží zeleň listnáčů, jindy temnější jehličí a když se obě barvy smířily, zrodil se obraz tisíce odstínů zeleně.
 
 [^1]: Určitě dobré přepsat, spíše zkrátit a spojit, není potřeba to mít rozdělené, stále se jedná o popis obličeje
 	
