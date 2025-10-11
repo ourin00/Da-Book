@@ -12,6 +12,7 @@ Untitled Unmastered
 
 Ourin
 
+# Kapitola 1
 
 Byl pátek odpoledne. Mraky odcestovaly na dovolenou a pódium obsadila světle modrá obloha, která k horizontu pozvolně bledla. 
 
@@ -65,7 +66,9 @@ A zatímco krajina plynula kolem, čas se rozplýval v rytmickém klapotu kol na
 
 Zanedlouho se barvy krajiny začaly míchat s obrysy Grundálu. Menší městečko přivítalo pasažéry dvěstěletým nástupištěm, kde vzduch nesl vůni borovic obklopujících celé nádraží. Byla to přívětivá změna, jež však brzy ustoupila dalšímu vlaku – tomu, který mířil do Horblu nad Lukami, vesničky vzdálené asi patnáct kilometrů na jih, obklopené lesy, loukami a poli. 
 
-Vlak mizel v dálce a Goj otevřel brány času, vlny nostalgických vzpomínek začaly zaplňovat Leovu mysl. Bez váhání se vydal po známé cestě, která vedla na okraj vesnice. Zvuky zvířat se rozléhaly po okolí – štěkání psů, kokrhání kohoutů, bučení krav i bečení ovcí patřilo ke každodennímu koloběhu. 
+Vlak mizel v dálce a Goj otevřel brány času. Vlny nostalgických vzpomínek začaly zaplňovat Leovu mysl. Bez váhání se vydal po známé cestě, která vedla na okraj vesnice. Zvuky zvířat se rozléhaly po okolí – štěkání psů, kokrhání kohoutů, bučení krav i bečení ovcí patřilo ke každodennímu koloběhu. 
 
-Vládla tu stará stavení, jejichž stěny postrádaly fasádu a střechy se pyšnily mozaikou různých odstínů tašek. Na zahradách se v jedné části pásly slepice a v druhé rostl pestrý výběr zeleniny. 
+Vládla tu stará stavení, jejichž stěny postrádaly fasádu a střechy se pyšnily mozaikou různých odstínů tašek. Na zahradách se v jedné části pásly slepice a v druhé rostl pestrý výběr zeleniny. Každým krokem se přibližoval vzpomínce na dům obklopený loukami, kde sbor bečících ovcí vítal každého, kdo šel kolem – s výjimkou německého ovčáka, který byl jejich každodenním publikem.
+
+Leo stlačil zvonek a krátká melodie se rozlétla ven, jako by sama chtěla potvrdit jeho dotek. Zanedlouho se dřevěné dveře otevřely a v nich stála matka – nevěřícně si prohlížela mladíka před sebou, jako by ji vlastní oči zradily a její mozek s ní hrál krutý žert.
 
