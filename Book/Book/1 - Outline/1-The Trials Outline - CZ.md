@@ -31,17 +31,7 @@ Podal jí kabelku z černé kůže, na níž byla znát léta opotřebení – p
 
 Oba se zasmáli a vydali se opačným směrem. Krátce poté dorazil do svého bytu.
 
-Sundal si modré džíny, na kterých čas zanechal svůj podpis - od bílých nití až po vybledlou modrou barvu.
-
-[^1]Z pravé přední kapsy vyndal malou kartu, rozměrově připomínala kreditku. První třetinu zabírala fotografie, na níž byly vidět obsidiánové vlasy, důkladně sčesané dozadu. Na první pohled skrývaly délku, avšak hustota prozrazovala skutečnou podstatu. 
-
-Tmavě hnědé oči ladily s vlasy jako smyčce doplňující trumpety v symfonii barev.
-
-Při pohledu na nos nenašel člověk nic významného, působil spíše jako malý, ale důležitý detail na velkém plátně. 
-
-Zatímco úsměvná ústa přivolávala veškerou pozornost a vyzařovala mládenecký optimismus.
-
-Zbylé dvě třetiny vyplňoval jednoduchý černý text: Leo Piotrowski, 24. 5. 2001, Log_Corp.
+Sundal si modré džíny, vybledlé a ošoupané časem. Z kapsy vytáhl malou kartu, připomínající kreditku. Fotografie na horní části ukazovala obsidiánové vlasy s tmavě hnědýma očima, ladícími jako smyčce s trumpetami v symfonii barev. Nos působil nenápadně, zatímco úsměvná ústa přitahovala pozornost. Zbytek karty vyplňoval černý text: Leo Piotrowski, 24. 5. 2001, Log_Corp.
 
 Kartu položil na dřevěný noční stolek. Jen kousek od něj stála levná jednolůžková postel povlečená světle béžovým prostěradlem. Na posteli ležel velký polštář s peřinou, jejich povlečení přecházelo od tmavě oranžové po světle oranžovou s nádechem žluté a připomínalo východ slunce.
 
@@ -59,9 +49,9 @@ Otočil se ke kuchyni, jen pár kroků od postele. Začal prohledávat kuchyňsk
 
 Z polorozpadlé skříně, která byla starší než Leo, vytáhl svůj jediný černý oblek a bílou košili v odstínu skořápky. Oba byly uloženy v průhledném igelitovém pytli, který pán času Goj pokryl silnou vrstvou prachu. Hadrem jej setřel a vyhnal Goje i jeho prachovou vrstvu a teprve poté oblek s košilí opatrně vyndal a oblékl.
 
-Při pohledu do zrcadla se mu na čele vytvořila drobná vesnička kapek potu, nad níž se tyčily rozcuchané vlasy připomínající černé blesky. Rychlým gestem pot setřel a vlasy uhladil. Při bližším pohledu na oblek se odhalila diagonálně šitá vlněná látka evokující pohyb vln. Uprostřed toho temného oceánu zářila bílá košile jako maják, pevná, jasná a nepřehlédnutelná
+Při pohledu do zrcadla se mu na čele vytvořila drobná vesnička kapek potu, nad níž se tyčily rozcuchané vlasy připomínající černé blesky. Rychlým gestem pot setřel a vlasy uhladil. Při bližším pohledu na oblek se odhalila diagonálně šitá vlněná látka evokující pohyb vln. Uprostřed toho temného oceánu zářila bílá košile jako maják, pevná, jasná a nepřehlédnutelná.
 
-Po krátkém sebehodnocením si sbalil jen to nejnutnější a vydal se na vlakové nádraží, vzdálené necelý kilometr západním směrem. Nedávná rekonstrukce proměnila kdysi zchátralé Karlovo nádraží v důstojné a moderní místo. V centru se tyčila mramorová socha Sona s napřažená rukou, v níž držel hůl se znakem vycházejícího slunce, jejíž hrot ukazoval k východu.
+Po sbalení nejnutnějšího vyrazil na vlakové nádraží, necelý kilometr západně. Rekonstrukce proměnila Karlovo nádraží v důstojné a moderní místo. V centru se tyčila mramorová socha Sona s napřaženou rukou. Držel hůl se znakem vycházejícího slunce, jejíž hrot ukazoval k východu.
 
 Vlak přijel se svým obvyklým zpožděním, jako by o jeho příjezdu rozhodoval spíše hod mincí než jízdní řád. Při nástupu Leo zpozoroval interiér, který hrdě dával najevo své stáří – a právě proto dával přednost starším vlakům. Vnímal je jako bránu do minulosti, kterou Goj odemykal s tichým darem perspektivy pro technologický posun.
 
@@ -71,7 +61,11 @@ Dnes však Leovy chuťové buňky nečeká klinské divadelní představení. Za
 
 Tříhodinová jízda vlakem uběhla hladce, jako po másle. Šeď metropole se po necelé hodině rozplynula v zelených loukách, střídajících se s poli brambor, kukuřice a zlatavého obilí. V dálce se táhly lesy – chvíli vládla svěží zeleň listnáčů, jindy temnější jehličí a když se obě barvy spojily, zrodil se obraz tisíce odstínů zeleně.
 
-A zatímco krajina plynula kolem, čas se rozplýval v rytmickém klapotu kol narážejíc na spoje kolejnic. Každé přejetí udávalo tempo, jako by sám vlak dirigoval orchestr, v němž smyčce pozvolna zesilovaly, elektrické piano rozechvívalo arpeggio a nad tím vším se vznášely dlouhé tóny kytary, propletené melodií klarinetu.
+A zatímco krajina plynula kolem, čas se rozplýval v rytmickém klapotu kol narážejících na spoje kolejnic. Každé přejetí udávalo tempo, jako by sám vlak dirigoval orchestr, v němž smyčce pozvolna zesilovaly, elektrické piano rozechvívalo arpeggio a nad tím vším se vznášely dlouhé tóny kytary, propletené melodií klarinetu.
 
-[^1]: Určitě dobré přepsat, spíše zkrátit a spojit, není potřeba to mít rozdělené, stále se jedná o popis obličeje
-	
+Zanedlouho se barvy krajiny začaly míchat s obrysy Grundálu. Menší městečko přivítalo pasažéry dvěstěletým nástupištěm, kde vzduch nesl vůni borovic obklopujících celé nádraží. Byla to přívětivá změna, jež však brzy ustoupila dalšímu vlaku – tomu, který mířil do Horblu nad Lukami, vesničky vzdálené asi patnáct kilometrů na jih, obklopené lesy, loukami a poli. 
+
+Vlak mizel v dálce a Goj otevřel brány času, vlny nostalgických vzpomínek začaly zaplňovat Leovu mysl. Bez váhání se vydal po známé cestě, která vedla na okraj vesnice. Zvuky zvířat se rozléhaly po okolí – štěkání psů, kokrhání kohoutů, bučení krav i bečení ovcí patřilo ke každodennímu koloběhu. 
+
+Vládla tu stará stavení, jejichž stěny postrádaly fasádu a střechy se pyšnily mozaikou různých odstínů tašek. Na zahradách se v jedné části pásly slepice a v druhé rostl pestrý výběr zeleniny. 
+
