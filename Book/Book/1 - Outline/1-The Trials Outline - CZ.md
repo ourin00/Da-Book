@@ -72,3 +72,15 @@ Vládla tu stará stavení, jejichž stěny postrádaly fasádu a střechy se py
 
 Leo stlačil zvonek a krátká melodie se rozlétla ven, jako by sama chtěla potvrdit jeho dotek. Zanedlouho se dřevěné dveře otevřely a v nich stála matka – nevěřícně si prohlížela mladíka před sebou, jako by ji vlastní oči zradily a její mozek s ní hrál krutý žert.
 
+Leo zapózoval a s úsměvem pronesl:
+"Vidím, že tě moje krása nechala ohromenou." 
+
+Jakmile větu dořekl, nedokázal se ubránit smíchu a zanedlouho se přidala i ona. Jejich smích přivolal Sona, který ještě víc rozjasnil už tak jasný den.
+
+Smích teprve přerušila její slova "Ty seš ale blbec." 
+
+Kdyby tyto slova byly vidět, každé by neslo podpis dua – ironie a lásky
+
+"Já vím," odpověděl a pevně ji objal. Ani jeden z nich nechtěl toho druhého pustit, ale nic netrvá věčně – po chvíli je rozdělil pes, který zvesela poskakoval kolem Lea.
+
+"Pojď dál," Pozvala ho domů.
