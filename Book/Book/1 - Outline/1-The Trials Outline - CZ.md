@@ -14,9 +14,9 @@ Ourin
 
 # Kapitola 1
 
-Byl pátek odpoledne. Mraky odcestovaly na dovolenou a pódium obsadila světle modrá obloha, která k horizontu pozvolně bledla. 
+Byl pátek odpoledne. Mraky odcestovaly na dovolenou a pódium obsadila světle modrá obloha, která k horizontu pozvolna bledla. 
 
-Mladík, vysoký kolem sto osmdesát centimetrů, spěchal zbrkle po rušné ulici. Vyhýbal se kolemjdoucím, avšak nakonec se střetl se starší paní.
+Mladík s dlouhými kroky spěchal zbrkle po rušné ulici. Vyhýbal se kolemjdoucím, avšak nakonec se střetl se starší paní.
 
 "Moc se omlouvám, jste v pořádku?" zeptal se okamžitě a pomohl jí vstát. 
 
@@ -28,11 +28,19 @@ Podal jí kabelku z černé kůže, na níž byla znát léta opotřebení – p
 
 "Ještě jednou se moc omlouvám," dodal se skloněnou hlavou. 
 
-"Nic se neděje," uklidnila ho paní a zároveň mávla vrásčitýma rukama. 
+"Nic se neděje," uklidnila ho paní a mávla přitom vrásčitýma rukama. 
 
-Oba se zasmáli a vydali se opačným směrem. Krátce poté dorazil do svého bytu.
+Na první pohled nepříjemná situace se proměnila ve smích – alespoň na zlomek času byli oba veselejší. 
 
-Sundal si modré džíny, vybledlé a ošoupané časem. Z kapsy vytáhl malou kartu, připomínající kreditku. Fotografie na horní části ukazovala obsidiánové vlasy s tmavě hnědýma očima, ladícími jako smyčce s trumpetami v symfonii barev. Nos působil nenápadně, zatímco úsměvná ústa přitahovala pozornost. Zbytek karty vyplňoval černý text: Leo Piotrowski, 24. 5. 2001, Log_Corp.
+Z industriální sekce se dostal ke svému bytu, obklopenému totožnými kopiemi, kam až oko dohlédlo. Od doby, kdy se sem před čtyřmi lety nastěhoval, se nic nezměnilo – šedá barva fasády vládla jako plevel na opuštěném statku. Sedm poschodí se tyčilo k nebi, jako kdyby sám Bůh rozhodl: *ani jedno navíc, ani jedno míň – sedm je dnů v týdnu, sedm bude pater.*
+
+A zatímco si jeho kamarádi na své byty často stěžovali – ať už na stav, sousedy nebo domovníka – Leo nikdy. Byl spokojený s tím, co má – možná až příliš, snad i na vlastní úkor. 
+Bylo až obdivuhodné, že i po čtyřech letech zůstal tak optimistický. Občas si ostatní říkali, jestli se  nezbláznil – a možná právě proto byl tak často v dobré náladě.
+
+Modré džíny, které s ním prožily mnoho narozenin, vánočních večerů i hospodských setkání, statečně vzdorovaly času. Od chvíle, kdy je dostal od babičky, se staly jeho společníkem i svědkem drobných vítězství a zklamání. 
+
+Z kapsy vytáhl malou kartu, připomínající kreditku. Fotografie na horní části ukazovala obsidiánové vlasy s tmavě hnědýma očima, ladícími jako smyčce s trumpetami v symfonii barev. Nos působil nenápadně, zatímco úsměvná ústa přitahovala pozornost, vyzařující mládenecký optimismus. Zbytek karty vyplňoval černý text: 
+**Leo Piotrowski, 24. 5. 2001, Log_Corp.**
 
 Kartu položil na dřevěný noční stolek. Jen kousek od něj stála levná jednolůžková postel povlečená světle béžovým prostěradlem. Na posteli ležel velký polštář s peřinou, jejich povlečení přecházelo od tmavě oranžové po světle oranžovou s nádechem žluté a připomínalo východ slunce.
 
