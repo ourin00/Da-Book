@@ -37,6 +37,8 @@ Z industriální sekce se dostal ke svému bytu, obklopenému totožnými kopiem
 A zatímco si jeho kamarádi na své byty často stěžovali – ať už na stav, sousedy nebo domovníka – Leo nikdy. Byl spokojený s tím, co má – možná až příliš, snad i na vlastní úkor. 
 Bylo až obdivuhodné, že i po čtyřech letech zůstal tak optimistický. Občas si ostatní říkali, jestli se  nezbláznil – a možná právě proto byl tak často v dobré náladě.
 
+Zdolal schody do čtvrtého patra kde otevřel dveře do svého bytu.
+
 Modré džíny, které s ním prožily mnoho narozenin, vánočních večerů i hospodských setkání, statečně vzdorovaly času. Od chvíle, kdy je dostal od babičky, se staly jeho společníkem i svědkem drobných vítězství a zklamání. 
 
 Z kapsy vytáhl malou kartu, připomínající kreditku. Fotografie na horní části ukazovala obsidiánové vlasy s tmavě hnědýma očima, ladícími jako smyčce s trumpetami v symfonii barev. Nos působil nenápadně, zatímco úsměvná ústa přitahovala pozornost, vyzařující mládenecký optimismus. Zbytek karty vyplňoval černý text: 
@@ -50,7 +52,7 @@ S nevýrazným úsměvem na tváři, jako kdyby mu padl kámen ze srdce, vyndal 
 
 Načež vzal všechny bankovky a začal je důkladně přepočítávat. Jednu po jedné skládal na sebe a při každých deseti tisících vytvořil nový balík.
 
-V celé místnosti se nesl šepot: "sto třicet... sto čtyřicet... sto padesát..." 
+[^1]Pečlivě počítal bankovky: "sto třicet... sto čtyřicet... sto padesát..." 
 
 Po chvilce ticha přišel zaslouženě dlouhý oddech, po němž následoval tentokrát už znatelný úsměv. Celý jeho obličej se rozzářil, jako by sám Son, bůh slunce, v ten okamžik vstoupil do Lea.
 
@@ -87,8 +89,11 @@ Jakmile větu dořekl, nedokázal se ubránit smíchu a zanedlouho se přidala i
 
 Smích teprve přerušila její slova "Ty seš ale blbec." 
 
-Kdyby tyto slova byly vidět, každé by neslo podpis dua – ironie a lásky
+Kdyby ta slova byla vidět, každé by neslo podpis dua – ironie a lásky
 
 "Já vím," odpověděl a pevně ji objal. Ani jeden z nich nechtěl toho druhého pustit, ale nic netrvá věčně – po chvíli je rozdělil pes, který zvesela poskakoval kolem Lea.
 
 "Pojď dál," Pozvala ho domů.
+
+[^1]: Změnit 
+	
