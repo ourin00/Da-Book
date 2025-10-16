@@ -1,4 +1,4 @@
-Age 18
+Age 24
 
 Height: 185 cm
 tmavě hnědé oči, černé vlasy

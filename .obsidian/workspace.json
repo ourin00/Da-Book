@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Book/1 - Outline/1-The Trials Outline - CZ.md",
+                "file": "Book/Book/Characters/Main Characters/Leo Piotrowski.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-The Trials Outline - CZ"
+              "title": "Leo Piotrowski"
             }
           }
         ]
@@ -163,8 +163,8 @@
   },
   "active": "8607129b9130287e",
   "lastOpenFiles": [
-    "Book/Book/1 - Outline/1-The Trials Outline.md",
     "Book/Book/1 - Outline/1-The Trials Outline - CZ.md",
+    "Book/Book/1 - Outline/1-The Trials Outline.md",
     "Book/Book/Creatures/Son.md",
     "Book/Book/1 - Outline/2- Arrival to MU Academy.md",
     "Book/Book/Creatures/Goj.md",
