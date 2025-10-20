@@ -1,1 +1,0 @@
-A weak side in chess as my understading goes is 

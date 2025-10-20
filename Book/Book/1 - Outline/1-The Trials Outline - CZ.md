@@ -16,19 +16,25 @@ Ourin
 
 Byl pátek odpoledne. Mraky odcestovaly na dovolenou a pódium obsadila světle modrá obloha, která k horizontu pozvolna bledla. 
 
-Mladík s dlouhými kroky spěchal zbrkle po rušné ulici. Vyhýbal se kolemjdoucím, avšak nakonec se střetl se starší paní.
+Mladík s dlouhými kroky spěchal zbrkle po rušné ulici. Vyhýbal se kolemjdoucím, avšak jeho nohy ho dovedly ke střetu se starší paní.
 
 "Moc se omlouvám, jste v pořádku?" zeptal se okamžitě a pomohl jí vstát. 
 
-"Bože, vy mladí jste pořád ve spěchu, jako byste neměli ještě celý život před sebou," postěžovala si paní. 
+"Nic se neděje. Vy mladí jste pořád ve spěchu, jako byste neměli ještě celý život před sebou," postěžovala si paní. 
 
-Podal jí kabelku z černé kůže, na níž byla znát léta opotřebení – především na uchu, kde černou barvu dávno nahradila šedá. 
+Podal jí nákupní tašku a kabelku z černé kůže, která ji doprovázela už mnoho let – od nákupů až po dovolené. Léta opotřebení ji poznamenala především na uchu, kde černou barvu dávno nahradila šedá.
 
-"No to víte, my mladí musíme být všude co nejdřív," odpověděl s lehkým úsměvem. 
+"No to víte, my mladí musíme být všude co nejdřív," pronesl s lehkým úsměvem, jenž mu vykouzlil na tváři téměř omluvný výraz. 
 
-"Ještě jednou se moc omlouvám," dodal se skloněnou hlavou. 
+"Ještě jednou se moc omlouvám. Vážně s tím nechcete pomoct?" zeptal se skloněnou hlavou. Podvědomí převzalo moc nad jeho tělem a nedovolilo mu navázat oční kontakt.
 
-"Nic se neděje," uklidnila ho paní a mávla přitom vrásčitýma rukama. 
+"Prosím tě, nic se neděje. Tělo mi ještě slouží, já už si to odnesu," uklidnila ho paní a mávla přitom vrásčitýma rukama. 
+
+Zvedl hlavu, ale jeho zrak byl stále ztracen v moři pokory. "No, je pravda, že vypadáte tak na čtyřicet... ale klidně vám s těmi taškami pomůžu," polichotil a znovu nabídl svou pomoc.
+
+"No tak vy mi tady říkáte, že jsem mladá, a stejně mi chcete ulehčit cestu – to mi nějak nedává smysl," pošťouchla ho paní, pobavená jeho protiklady.
+
+Leo zčervenal a zvedl obě ruce, jako by paní vytáhla pistoli nabitou fakty. "Dostala jste mě." 
 
 Na první pohled nepříjemná situace se proměnila ve smích – alespoň na zlomek času byli oba veselejší. 
 
@@ -51,8 +57,6 @@ Na nočním stolku ležela krabice od bot, na jejímž víku byl přilepený žl
 S nevýrazným úsměvem na tváři, jako kdyby mu padl kámen ze srdce, vyndal koženou peněženku, ve které mimo jiné měl dvě pětitisícovky, a bez váhání je přiložil k ostatním.
 
 Načež vzal všechny bankovky a začal je důkladně přepočítávat. Jednu po jedné skládal na sebe a při každých deseti tisících vytvořil nový balík.
-
-[^1]Pečlivě počítal bankovky: "sto třicet... sto čtyřicet... sto padesát..." 
 
 Po chvilce ticha přišel zaslouženě dlouhý oddech, po němž následoval tentokrát už znatelný úsměv. Celý jeho obličej se rozzářil, jako by sám Son, bůh slunce, v ten okamžik vstoupil do Lea.
 
@@ -95,5 +99,5 @@ Kdyby ta slova byla vidět, každé by neslo podpis dua – ironie a lásky
 
 "Pojď dál," Pozvala ho domů.
 
-[^1]: Změnit 
-	
+Na chodbě si sundal boty a jeho matka se ho zeptala, "Co tu vůbec děláš, proč si mi nic neřekl?"
+
