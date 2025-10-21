@@ -27,6 +27,8 @@ Characteristics: 
 - Self-doubting, low self esteem
 	thinks everything is his fault, 
 - Loves music, especially ambient
+- Naive
+- Idealistic
 
 Questions:
 

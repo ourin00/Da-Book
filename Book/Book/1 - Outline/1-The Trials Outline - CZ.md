@@ -97,7 +97,44 @@ Kdyby ta slova byla vidět, každé by neslo podpis dua – ironie a lásky
 
 "Já vím," odpověděl a pevně ji objal. Ani jeden z nich nechtěl toho druhého pustit, ale nic netrvá věčně – po chvíli je rozdělil pes, který zvesela poskakoval kolem Lea.
 
-"Pojď dál," Pozvala ho domů.
+"Pojď dál," Pozvala ho domů. vešel dovnitř a zaplavili ho vzpomínky z dětsvý
 
-Na chodbě si sundal boty a jeho matka se ho zeptala, "Co tu vůbec děláš, proč si mi nic neřekl?"
+Na chodbě si sundal boty a jeho matka nedokázala nadále oddálit otázku "Co tu vůbec děláš, proč si mi nic neřekl?"
 
+Leo: "Avšak počkej, tady člověk jenom vejde a cítí se tu jako u policejního výslechu." 
+
+Matka: "Však, když přijedeš jednou za čas, tak tě musím vyslechnout."
+
+Šli si sednout do kuchyně 
+
+Matka: "Kávu?"
+
+Leo: "Ne díky,"
+
+Matka se posadí naproti Leovi
+
+Matka: "čemu vděčím za tvojí návštěvu,"
+
+Leo se lehce zasmál a chvilku se vrtil, těžkost situace mu byla nekomfortní
+
+Leo: "Podal jsem přihlášku na Michalovu akademii kouzelného umění."
+
+Matka z této zprávy byla v šoku. 
+
+Matka: "Nevím co na to říct,"
+
+na jejím obličeji bylo vidět, že slova neztratila kvůli tomu že je štěstím bez sebe.
+
+Leo: "Tak třeba, *To je dobrá zpráva*,"
+
+Matka: "No to je... to je zpráva"
+
+Matka: "Seš si tím naprosto jistý? ne že bych ti to chtěla rozmluvit, jenom... jenom se o tebe bojím, přeci jen jdeš smrti přímo naproti."
+
+Leo: "Ale to zase ty noviny všechno přehání, však všichni jdeme smrti naproti. Bohužel už jsem se tak rozhodl, chci pomáhat lidem, chci aby všichni kolem mě měli lepší život, bezstarostný život."
+
+Matka: "Naproti jí jdeme všichni, ale ty za ní poběžíš, zatímco ostatní budou opatrně kráčet,"
+
+Leo: "Klidně za ní poběžím, když to zlepší svět, klidně i jenom o nepatrný kousek."
+
+Matka se zvedla. "Uvědom si co říkáš Leo, ty poběžíš za smrtí, jenom kvůli nějakému aspektu lepšího života pro ostatní. Co když tvoje verze "lepšího života" není to ono, co když svět tvým chováním zhoršíš? co potom?"

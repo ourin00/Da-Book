@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Book/1 - Outline/1-The Trials Outline - CZ.md",
+                "file": "Book/Book/Characters/Main Characters/Leo Piotrowski.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-The Trials Outline - CZ"
+              "title": "Leo Piotrowski"
             }
           }
         ]
@@ -163,8 +163,8 @@
   },
   "active": "8607129b9130287e",
   "lastOpenFiles": [
-    "Book/Book/Characters/Main Characters/Leo Piotrowski.md",
     "Book/Book/1 - Outline/1-The Trials Outline - CZ.md",
+    "Book/Book/Characters/Main Characters/Leo Piotrowski.md",
     "README.md",
     "Book/Book/Random Thoughts/Just Random Thoughts/League of Legends Strategies/Untitled.md",
     "Book/Book/Random Thoughts/Just Random Thoughts/weak side.md",
