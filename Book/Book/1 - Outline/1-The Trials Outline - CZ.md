@@ -14,15 +14,15 @@ Ourin
 
 # Kapitola 1
 
-Byl pátek odpoledne. Mraky odcestovaly na dovolenou a pódium obsadila světle modrá obloha, která k horizontu pozvolna bledla. 
+Byl pátek odpoledne. Mraky odcestovaly na dovolenou a nebe obsadila světle modrá obloha, která k horizontu pozvolna bledla. 
 
-Mladík s dlouhými kroky spěchal zbrkle po rušné ulici. Vyhýbal se kolemjdoucím, avšak jeho nohy ho dovedly ke střetu se starší paní.
+Mladík s dlouhými kroky spěchal zbrkle po rušné ulici. Vyhýbal se kolemjdoucím, avšak jeho nohy ho nakonec dovedly ke střetu se starší paní.
 
-"Moc se omlouvám, jste v pořádku?" zeptal se okamžitě a pomohl jí vstát. 
+"Moc se omlouvám, jste v pořádku?" zeptal se a rychle jí pomohl vstát. 
 
-"Nic se neděje. Vy mladí jste pořád ve spěchu, jako byste neměli ještě celý život před sebou," postěžovala si paní. 
+"Nic se neděje. Vy mladí jste pořád ve spěchu, jako byste neměli ještě celý život před sebou," povzdechla si paní. 
 
-Podal jí nákupní tašku a kabelku z černé kůže, která ji doprovázela už mnoho let – od nákupů až po dovolené. Léta opotřebení ji poznamenala především na uchu, kde černou barvu dávno nahradila šedá.
+Podal jí tašku a kabelku z černé kůže, poznamenanou lety používání – černou barvu na uchu dávno nahradila šedá.
 
 "No to víte, my mladí musíme být všude co nejdřív," pronesl s lehkým úsměvem, jenž mu vykouzlil na tváři téměř omluvný výraz. 
 
@@ -52,7 +52,7 @@ Z kapsy vytáhl malou kartu, připomínající kreditku. Fotografie na horní č
 
 Kartu položil na dřevěný noční stolek. Jen kousek od něj stála levná jednolůžková postel povlečená světle béžovým prostěradlem. Na posteli ležel velký polštář s peřinou, jejich povlečení přecházelo od tmavě oranžové po světle oranžovou s nádechem žluté a připomínalo východ slunce.
 
-Na nočním stolku ležela krabice od bot, na jejímž víku byl přilepený žlutý lístek s nápisem *Akademie.* Leo opatrně sundal víko. Bylo zřejmé, že na pohled obyčejná krabice skrývá důležité tajemství. Peníze. Kupa pečlivě srovnaných bankovek, od nejmenší stovky až po pětitisícovky, každá uskladněná ve svém hnízdě.
+Na nočním stolku ležela krabice od bot s přilepeným žlutým lístkem: **Akademie.** Leo opatrně sundal víko. Bylo zřejmé, že na pohled obyčejná krabice skrývá důležité tajemství. Peníze. Kupa pečlivě srovnaných bankovek, od nejmenší stovky až po pětitisícovky, každá uskladněná ve svém hnízdě.
 
 S nevýrazným úsměvem na tváři, jako kdyby mu padl kámen ze srdce, vyndal koženou peněženku, ve které mimo jiné měl dvě pětitisícovky, a bez váhání je přiložil k ostatním.
 
@@ -60,11 +60,11 @@ Načež vzal všechny bankovky a začal je důkladně přepočítávat. Jednu po
 
 Po chvilce ticha přišel zaslouženě dlouhý oddech, po němž následoval tentokrát už znatelný úsměv. Celý jeho obličej se rozzářil, jako by sám Son, bůh slunce, v ten okamžik vstoupil do Lea.
 
-Otočil se ke kuchyni, jen pár kroků od postele. Začal prohledávat kuchyňské zásuvky jednu po druhé, dokud nenarazil na to, co hledal. Vyndal bílou obálku pokrytou tenkou vrstvou prachu. Vrátil se k penězům a s trochou síly donutil obálku, aby nabrala na objemu. Obálku položil na postel.
+Otočil se ke kuchyni, jen pár kroků od postele. Začal prohledávat kuchyňské zásuvky jednu po druhé, dokud nenarazil na to, co hledal. Vyndal bílou obálku pokrytou tenkou vrstvou prachu. Vrátil se k penězům a s trochou síly donutil obálku, aby nabrala na objemu.
 
-Z polorozpadlé skříně, která byla starší než Leo, vytáhl svůj jediný černý oblek a bílou košili v odstínu skořápky. Oba byly uloženy v průhledném igelitovém pytli, který pán času Goj pokryl silnou vrstvou prachu. Hadrem jej setřel a vyhnal Goje i jeho prachovou vrstvu a teprve poté oblek s košilí opatrně vyndal a oblékl.
+Obálku položil na postel a z polorozpadlé skříně, která byla starší než Leo, vytáhl svůj jediný černý oblek a bílou košili v odstínu skořápky. Oba byly uloženy v průhledném igelitovém pytli, který pán času Goj pokryl silnou vrstvou prachu. Hadrem jej setřel a vyhnal Goje i jeho prachovou vrstvu a teprve poté oblek s košilí opatrně vyndal a oblékl.
 
-Při pohledu do zrcadla se mu na čele vytvořila drobná vesnička kapek potu, nad níž se tyčily rozcuchané vlasy připomínající černé blesky. Rychlým gestem pot setřel a vlasy uhladil. Při bližším pohledu na oblek se odhalila diagonálně šitá vlněná látka evokující pohyb vln. Uprostřed toho temného oceánu zářila bílá košile jako maják, pevná, jasná a nepřehlédnutelná.
+Při pohledu do zrcadla mu pot stékal po čele a rozcuchané vlasy působily jako černé blesky. Rychlým gestem pot setřel a vlasy uhladil. Oblek s diagonálně šitou vlněnou látkou připomínal pohyb vln. Celé to připomínalo oceán, uprostřed něhož zářila bílá košile – pevná a jasná, jako maják.
 
 Po sbalení nejnutnějšího vyrazil na vlakové nádraží, necelý kilometr západně. Rekonstrukce proměnila Karlovo nádraží v důstojné a moderní místo. V centru se tyčila mramorová socha Sona s napřaženou rukou. Držel hůl se znakem vycházejícího slunce, jejíž hrot ukazoval k východu.
 
@@ -97,44 +97,52 @@ Kdyby ta slova byla vidět, každé by neslo podpis dua – ironie a lásky
 
 "Já vím," odpověděl a pevně ji objal. Ani jeden z nich nechtěl toho druhého pustit, ale nic netrvá věčně – po chvíli je rozdělil pes, který zvesela poskakoval kolem Lea.
 
-"Pojď dál," Pozvala ho domů. vešel dovnitř a zaplavili ho vzpomínky z dětsvý
+"Pojď dál," řekla matka a ustoupila mu z cesty. Jakmile vstoupil, Goj otevřel brány času a zaplavil ho vzpomínkami – vrzání starého dřeva, pach venkova, cihlové destičky na zdech, to vše ho vrátilo zpátky do dětsví. 
 
-Na chodbě si sundal boty a jeho matka nedokázala nadále oddálit otázku "Co tu vůbec děláš, proč si mi nic neřekl?"
+Na chodbě si sundal boty. "Co tu vůbec děláš?" hned se zeptala, sotva dovřela dveře. "Proč si mi nic neřekl?"
 
-Leo: "Avšak počkej, tady člověk jenom vejde a cítí se tu jako u policejního výslechu." 
+Leo se pousmál, rád viděl tak plnou energie. "Počkej, tady člověk jenom vejde a hned výslech? Mám si zavolat právníka?" 
 
-Matka: "Však, když přijedeš jednou za čas, tak tě musím vyslechnout."
+"No jasně, klidně," zasmála se. "Když se objevíš dvakrát do roka, tak se nediv."
 
-Šli si sednout do kuchyně 
+Ukázala směrem do kuchyně. "Pojď. Dáš si kávu?"
 
-Matka: "Kávu?"
+"Ne díky," odpověděl Leo, vidět ho pít kávu byla rarita – po ní byl vždy nevrlý.
 
-Leo: "Ne díky,"
+Matka si sedla naproti. "Tak povídej," řekla po chvíli. "Čemu vděčím za tu poctu?"
 
-Matka se posadí naproti Leovi
+Leo se zavrtěl. těžkost okamžiku mu nedovolila sedět v klidu. Nikdy neměl rád tyto situace – když mu srdce mu buší až do hlavy a mozek mu předhazuje všechny možné reakce druhých. Ale teď už nemohl couvnout.
 
-Matka: "čemu vděčím za tvojí návštěvu,"
+"Podal jsem přihlášku na Michalovu akademii kouzelného umění." řekl nakonec tiše.
 
-Leo se lehce zasmál a chvilku se vrtil, těžkost situace mu byla nekomfortní
+Ticho. Její tvář ztratila barvu. 
 
-Leo: "Podal jsem přihlášku na Michalovu akademii kouzelného umění."
+"To myslíš vážně?" zeptala se. "Nevím co na to říct."
 
-Matka z této zprávy byla v šoku. 
+"No... třeba *To je dobrá zpráva*?" zkusil s úsměvem. Chápal, že to je pro matku šok, ale i jeho představivost ho nepřipravila na takovou reakci.
 
-Matka: "Nevím co na to říct,"
+"To je... to je zpráva," odpověděla a opřela ruce o stůl. "Jsi si tím jistý?" Pohled měla upřený na Lea, který trochu zblednul.
 
-na jejím obličeji bylo vidět, že slova neztratila kvůli tomu že je štěstím bez sebe.
+"Ne že bych ti to chtěla rozmluvit, jen..." odmlčela se. "Jen se bojím. Ta škola... to není žádná legrace. Jdeš smrti přímo naproti."
 
-Leo: "Tak třeba, *To je dobrá zpráva*,"
+Byl zcela v šoku, nečekal odpor a musel si dát chvilku na rozmyšlenou než odpověděl. "To zase ty noviny všechno přehání. Všichni přece jdeme smrti naproti. Já jen... chci pomáhat lidem. Aby měli lepší život. Bez strachu a trápení."
 
-Matka: "No to je... to je zpráva"
+"Všichni kráčíme naproti smrti" přerušila jeho idealistické řeči "Ale ty za ní běžíš, zatímco ostatní opatrně kráčí,"
 
-Matka: "Seš si tím naprosto jistý? ne že bych ti to chtěla rozmluvit, jenom... jenom se o tebe bojím, přeci jen jdeš smrti přímo naproti."
+Leo zvedl hlas, bylo jasné jak moc je z této konverzace rozhořčen. "Klidně za ní poběžím, když to zlepší svět, klidně i jenom o nepatrný kousek." 
 
-Leo: "Ale to zase ty noviny všechno přehání, však všichni jdeme smrti naproti. Bohužel už jsem se tak rozhodl, chci pomáhat lidem, chci aby všichni kolem mě měli lepší život, bezstarostný život."
+Z nenadání vstala a zvuk židle třecí o podlahu zaplnil místnost. Postava matky se nad ním tyčila jako věž nad pěšákem. "Leo. uvědom si, co říkáš. Ty se ženeš za smrtí jen kvůli nějaký představě o lepším světě. A co když tvoje verze "lepšího světa" není ta, kterou chtějí ostatní? Co když svět tvým chováním zhoršíš? Co potom?"
 
-Matka: "Naproti jí jdeme všichni, ale ty za ní poběžíš, zatímco ostatní budou opatrně kráčet,"
+Leo chvíli mlčel. Zvedl pohled, v hlase měl klid, ale i smutek. "Možná máš pravdu, možná ta má verze není ta pravá, ale jestli se nevydám alespoň nějakou cestou, tak vím že se budu za to proklínat a kdo ví možná se budu proklínat za tohle rozhodnutí, chci prozkoumat kam mě tahle cesta zavede. Chci pomáhat lidem, je na tom snad něco zlého?"
 
-Leo: "Klidně za ní poběžím, když to zlepší svět, klidně i jenom o nepatrný kousek."
+Odpovědi se nedočkal. Matka jen tiše popíjela kávu. 
 
-Matka se zvedla. "Uvědom si co říkáš Leo, ty poběžíš za smrtí, jenom kvůli nějakému aspektu lepšího života pro ostatní. Co když tvoje verze "lepšího života" není to ono, co když svět tvým chováním zhoršíš? co potom?"
+Leo vstal a oznámil, "budu chvilku venku." Její zrak byl upřen do prázdna, bylo vidět, že se jí myšlenky honí hlavou.
+
+Na zahradě ho ovanul chladný vánek, který ho každým nádechem uklidňoval. Pohled upřel na sedm ovcí ležících pod stínem lípy. Za nimi se táhlo vyskládané dříví, několik metrů doprava. Na levém kraji branky stál beran: tichý strážce, jehož přítomnost dodávala stádu klid. 
+
+V hlavě mu začalo klíčit semínko omluvy. Vztek, který dosud vládl jeho myšlenkám, se snažil bránit růstu, avšak už bylo pozdě. Vešel zpět dovnitř a začal se omlouvat. "Promiň, že jsem na tebe zvýšil hlas, nechal jsem se unést."
+
+Matka právě umívala hrnek. Jakmile skončil, otočila se a objala ho. "Však já vím, že si to tak nemyslel." 
+
+Objetí vyhnalo vztek z jeho myšlenek. Síla mu pomalu mizela a zanedlouho měl problém udržet se na nohou.
