@@ -4,15 +4,12 @@ Plot Outline
 
 First Draft
 
-Ideas
-	  konflikt - bude vůbec přijat do Michalovy akademie 
-	  Matka nechce aby její syn šel do akademie, zprvu je to velké finanční rozhodnutí ale potom se přizná, že se bojí, že přijde o svého syna protože to je zároveň nebezpečné a skoro každý týden někdo z akademie zemře
-
 Untitled Unmastered
 
 Ourin
 
 # Kapitola 1
+## Podkapitola 1
 
 Byl pátek odpoledne. Mraky odcestovaly na dovolenou a nebe obsadila světle modrá obloha, která k horizontu pozvolna bledla. 
 
@@ -146,3 +143,12 @@ V hlavě mu začalo klíčit semínko omluvy. Vztek, který dosud vládl jeho my
 Matka právě umívala hrnek. Jakmile skončil, otočila se a objala ho. "Však já vím, že si to tak nemyslel." 
 
 Objetí vyhnalo vztek z jeho myšlenek. Síla mu pomalu mizela a zanedlouho měl problém udržet se na nohou.
+
+Zbytek dne vyplnil lelkováním po zahradě, drobnou výpomocí doma a procházkou po vesnici. Večer ulehl do postele ve svém starém pokoji. Z mobilu si pustil tichou ambientní hudbu. Zavřel oči a pomalu, ale jistě, se kolem něj začaly rozlétat vzpomínky z dětství, které mu vykouzlily úsměv na tváři.
+
+## Podkapitola 2
+
+Další den dal brzy ráno sbohem matce a vydal se na vlakové nádraží, které ho vzalo do města zpět do Grundálu. Při odjezdu ho si vedle něho sedl smutek. Přestoupil do vlak, který ho zavezl až do Göbre. Přijel lehce před devátou, univerzita byla 5 kilometrů za městem a tak bez jakýchkoliv zbytečností skočil na autobus, který ho zavezl blíže, avšak ho stále čekala dvou kilometrová chůze. 
+
+za dvacet minut stál před univerzitou, kde ho přívatala brána, u které stál muž okolo čtyřiceti let. 
+

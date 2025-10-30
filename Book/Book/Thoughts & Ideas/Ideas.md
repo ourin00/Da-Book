@@ -49,6 +49,7 @@ Poem:
 
 The sacrificial man finds himself in shallow waters. Looking around for water to take from those who are drowning. 
 
+
   
 
 The sacrificial man finds himself in deep waters. Looking around for water to take from those who are drowning. Blinded by the good deeds he’s doing. The devil starts planting the seeds of evil in him. 

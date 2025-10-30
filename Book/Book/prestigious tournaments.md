@@ -1,1 +1,0 @@
-A foreshadowing for a tournament arc
