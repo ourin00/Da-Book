@@ -150,5 +150,8 @@ Zbytek dne vyplnil lelkováním po zahradě, drobnou výpomocí doma a procházk
 
 Další den dal brzy ráno sbohem matce a vydal se na vlakové nádraží, které ho vzalo do města zpět do Grundálu. Při odjezdu ho si vedle něho sedl smutek. Přestoupil do vlak, který ho zavezl až do Göbre. Přijel lehce před devátou, univerzita byla 5 kilometrů za městem a tak bez jakýchkoliv zbytečností skočil na autobus, který ho zavezl blíže, avšak ho stále čekala dvou kilometrová chůze. 
 
-za dvacet minut stál před univerzitou, kde ho přívatala brána, u které stál muž okolo čtyřiceti let. 
+za dvacet minut stál před univerzitou, kde ho přivítala brána, kde byla budka okupovaná mužem okolo čtyřiceti let. Představil se a řekl proč tu je, muž ho šel do budky kde volal a za chvíli přišel vysoký snědý muž. představil se jako Rahul Bhatt. zavedl Lea do malé místnosti. zde už seděla žena, pohledem vypadala na třicátnici. 
+
+Rahul ho přivítal a objasnil, že se jedná o pohovor a že zde je jeho kolegyně Briana. Leo se posadil.
+
 
