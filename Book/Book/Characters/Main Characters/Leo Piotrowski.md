@@ -48,5 +48,6 @@ If your team made a mistake how would you react?
 	 He criticizes himself and only himself.
 Why do you like Ambient music?
 	 It calms him down, his favorite is KLF - Chill Out
-
+When you graduate, what do you want to do?
+	 I want to help people in villages, where heroes overlook those.
 Spell: Teleportation

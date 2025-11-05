@@ -1,3 +1,5 @@
+Leo se chce dostat do michalovi akademie, jeho matka a Briana mu položí filozofické otázky. V akademii se zaměří na schopnost teleportace. 
+
 Chapter 1 - The trials
 Chapter 2 - Arrival to MU academy
 Chapter 3 - Return to the city (Goncha tournament arc)

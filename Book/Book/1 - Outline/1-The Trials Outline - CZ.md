@@ -2,6 +2,7 @@ Plot Outline
 
   
 
+
 First Draft
 
 Untitled Unmastered
@@ -11,6 +12,67 @@ Ourin
 # Kapitola 1
 ## Podkapitola 1
 
+Černé auto jelo po silnici plné děr směrem k nevýznamné vesnici. Auto poskakovalo po výmolech, Josef zívl. Ta cesta byla nekonečná.
+
+Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí.
+
+"Toro," ztlumil rádio a zavrčel. "Připomeň mi, proč musíme jet **tři hodiny** do nějaké blbé vesnice?"
+
+"Do **Grunska**," zdůraznila a ani nezvedla oči: "Jedeme proto, že zde našli rozežrané tělo mladého chlapce."
+
+"Takže někoho zabil medvěd nebo něco – a my tu musíme být?" rozčiloval se, máchal rukama a vrtěl hlavou.
+
+Toro si ani nevšimla jeho dětinského výbuchu a začala číst zprávu nahlas: "Tak nevím, jestli zrovna medvěd dokáže do těla dostat tmavě zelenou tekutinu, která, a cituji *rozežrala rukavice jednomu ze záchranářů a při dlouhodobém dýchaní v blízkosti způsobila nevolnosti doprovázené zvracením*." 
+
+"No tak medvěd to nebude. To mi zní jako kyselina."  Zamumlal si pod vousy. Tep mu zrychlil a barva z obličeje zmizela.
+
+Pohlédla na něj s drobným úsměvem – takovým tím, který pramení z cizího neštěstí. "Tak Josefe, a důvod, proč zrovna ty tu musíš být, je jednoduchý. Když někdo řekne ředitelovi, cituji, *že je strašnej debil*, člověk se nemůže divit, že dostane takovou práci."
+
+"Avšak to je debil, jenom mu všichni lezou do prdele." Neodpustil si komentář. 
+
+Zanedlouho dorazili do Grunska, kde zeleň listnáčů vysázených kolem silnice vítala každého, kdo přijížděl. Zaparkovali na náměstí, uprostřed něhož se tyčila mramorová kašna. Po celé vesnici panoval klid – až nepřirozený. S tím, co se stalo, by však byli všichni radši, kdyby se aspoň něco dělo. 
+
+Po zaslouženém protažení svalů se vydali na místo činu. Při cestě zpozorovali několik zvířat jak prchala z lesa. Nebe bylo zaplněné černými tečkami kroužící nad lesem. 
+
+Tora se zastavila. "Tolik vran... proč?"
+
+"Nechci to přiznávat, ale moje tušení je že tam někdo, nebo spíš něco, nechává zbytky masa." Chvíle ticha převládla moment. "Bohužel je tu otázka kdo je zabíjí?" v očích mu vládl strach. 
+
+Tora neodpověděla, představa takového monstra ji zcela znepokojovala.
+
+Vysílačky praskaly a neustálá mluva rozbíjely tichou cestu. Stromy odrážely blikající světlo z policejních majáků, jako by byly zrcadla. Žluto-černá páska se táhla několik metrů kolem nich, střežena několika příslušníky místní policie. Les široký asi tři kilometry odděloval Grundál od vesnice Horbl.
+
+Suché listí křupalo pod nohama. Stromy místy propouštěly sluneční paprsky, jež dopadaly v úzkých pruzích, jako reflektory v nočním klubu. Každým krokem se zesiloval hnisavý pach, jehož zdroj měli zanedlouho před sebou.
+
+Rozežrané tělo leželo v trávě – bez břicha, bez vnitřností. Zůstala jen rozlámaná žebra trčící z torza. 
+Krev se mísila se zelenou tekutinou. Byla hustá jako omáčka a smrděla tak, že pálila oči.
+
+
+Leo po této zprávě vypnul mobil a odešel z pokoje, v kuchyni potkal otce, který četl noviny.
+
+"No věříš tomu?" Zeptal se Leo.
+
+"Co? čemu zase?" Otec zmateně odpověděl.
+
+"Martina Kurtáše roztrhal medvěd. Neuvěřitelný," nevěřícně kroutil hlavou.
+
+"To teda." Odpověděl otec a pokračoval "slyšel jsem, že prej to nebyl medvěd, že tu řádí nějaké monstrum a pan starosta si na to pozval, nějaký ty *hrdiny* z té akademie."
+
+"Prosim tě a od koho si to slyšel?" Skepticky vznesl otázku.
+
+Otec chvilku nechtěl odpovídat. "No od Lojzy, no."
+
+"Od Lojzy jo? A tomu bláznovi věříš?" řekl Leo.
+
+"Hele jdi radši ven a nemoralizuj mě tady," vyhnal ho otec.
+
+Jak Otec řekl tak Leo udělal a šel ven s Davidem až do večera. Večer se objevil z nenadání a rozhodli se jít domů. V půli cesty před sebou slyšeli divné zvuky, které zajisté nepřipomínali medvědí zvuky. Byla to kombinace klapajících zubu a hlubokého vrčení. Zrychlili krok. Ani neudělali pět kroků a oba zůstali stát. Silueta vysoká dva a půl metru se před nimi začala přibližovat. Najednou oba zachvátila instinktivní potřeba utéct. Nebylo to totiž něco co by někdy viděli. Bledě bílé nohy monstrum táhly blíže a blíže k chlapcům. Ti se mezitím schovali za stromy. Neustálé klapání čelistí přestalo. Chrčení zesílilo a celé tělo se začalo třepat. Pomalu se přibližovalo k Leovi. Každým krokem křupali větve. Leo nevěděl co dělat, srdce mu bušilo čím dál rychleji, myšlenky se mu honili hlavou — uteč, zůstaň, uteč, zůstaň, dokola a dokola. Křup. 
+
+Davidovi nohy se rozeběhli cestou k vesnici. Monstrum se rozeběhlo jeho směrem. Leo vyběhl za Davidem, strach mu překonala kuráž jeho kamaráda. Na cestě ani žíví ani mrtví. Řev z lesa. Leo bezhlavě běží za zvukem. Ticho. Zmateně hledal svého kamaráda, *kde je?* a *musím ho najít* mu neustále zaplavovalo hlavu. Jeho přání se mu splnilo. Davidovo tělo obklopené tichem bylo požíráno monstrem. Leo nevěřícně kouká na scénu předním, nedokáže si to vysvětlil. Leova přítomnost přiláká monstrum. Vylítlo na Lea takovou rychlostí, že to ani nestihl zaznamenat. Najednou byl Leo jinde. "Promiň, že jsem byl tak pomalí." zazněl mužský hlas.
+
+Blonďatý muž začal nebojácně kráčet k monstru. To se rozeběhlo proti němu každý krok zněl jako válečné bubny smrti doprovázené chrčením. Až bylo monstrum u něj vytasil katanu, která se rozzářila barvami polární záře. Baráž útoků perfektně vyblokoval nebo odrazil. Až nastal moment vzal ofenzívu do vlastních rukou. Po několika vyblokovaných úderech najednou muž odskočil a  katanu ztratila záři. Monstrum vyběhlo na něj, mezitím se kolem něj objevila polární záře. Zelená krev najednou tekla z monstra. Útoky z meče se opakovali. Monstrum leželo mrtvé na zemi.
+
+___
 Byl pátek odpoledne. Mraky odcestovaly na dovolenou a nebe obsadila světle modrá obloha, která k horizontu pozvolna bledla. 
 
 Mladík s dlouhými kroky spěchal zbrkle po rušné ulici. Vyhýbal se kolemjdoucím, avšak jeho nohy ho nakonec dovedly ke střetu se starší paní.
@@ -75,7 +137,7 @@ Tříhodinová jízda vlakem uběhla hladce, jako po másle. Šeď metropole se 
 
 A zatímco krajina plynula kolem, čas se rozplýval v rytmickém klapotu kol narážejících na spoje kolejnic. Každé přejetí udávalo tempo, jako by sám vlak dirigoval orchestr, v němž smyčce pozvolna zesilovaly, elektrické piano rozechvívalo arpeggio a nad tím vším se vznášely dlouhé tóny kytary, propletené melodií klarinetu.
 
-Zanedlouho se barvy krajiny začaly míchat s obrysy Grundálu. Menší městečko přivítalo pasažéry dvěstěletým nástupištěm, kde vzduch nesl vůni borovic obklopujících celé nádraží. Byla to přívětivá změna, jež však brzy ustoupila dalšímu vlaku – tomu, který mířil do Horblu nad Lukami, vesničky vzdálené asi patnáct kilometrů na jih, obklopené lesy, loukami a poli. 
+Zanedlouho se barvy krajiny začaly míchat s obrysy Grundálu. Menší městečko přivítalo pasažéry dvěstěletým nástupištěm, kde vzduch nesl vůni borovic obklopujících celé nádraží. Byla to přívětivá změna, jež však brzy ustoupila dalšímu vlaku – tomu, který mířil do Horblu nad Lukami, vesničky vzdálené asi tři kilometry na jih, obklopené lesy, loukami a poli. 
 
 Vlak mizel v dálce a Goj otevřel brány času. Vlny nostalgických vzpomínek začaly zaplňovat Leovu mysl. Bez váhání se vydal po známé cestě, která vedla na okraj vesnice. Zvuky zvířat se rozléhaly po okolí – štěkání psů, kokrhání kohoutů, bučení krav i bečení ovcí patřilo ke každodennímu koloběhu. 
 
@@ -152,6 +214,21 @@ Další den dal brzy ráno sbohem matce a vydal se na vlakové nádraží, kter�
 
 za dvacet minut stál před univerzitou, kde ho přivítala brána, kde byla budka okupovaná mužem okolo čtyřiceti let. Představil se a řekl proč tu je, muž ho šel do budky kde volal a za chvíli přišel vysoký snědý muž. představil se jako Rahul Bhatt. zavedl Lea do malé místnosti. zde už seděla žena, pohledem vypadala na třicátnici. 
 
-Rahul ho přivítal a objasnil, že se jedná o pohovor a že zde je jeho kolegyně Briana. Leo se posadil.
+Rahul ho přivítal a objasnil, že se jedná o pohovor a že zde je jeho kolegyně Briana. Leo se posadil. Díky Rahulovi byla atmosféra v místnosti přívětivá. 
+
+"Ještě jednou dobrý den, jmenuji se Rahul a tentokrát je tu se mnou má kolegyně Briana."
+
+několik minut Leo odpovídal na klasické pohovorní otázky. I když nedávala pozor a Brianu to přestávalo bavit, jelikož slyšela tento rozhovor minimálně tisickrát. Naznačila rahulovi že by se chtěla na pár otázek zeptat. 
+
+"No budu s vámi naprosto upřímná, zatím jste mě moc neoslnil," řekla Briana
+
+Leo zbledl z šoku
+
+Pokračovala, "Ale to není moc vaše chyba. Spíše chyba mého kolegy, který se bohužel musí ptát na takovéto plytké otázky." Otočila hlavu na Rahula, který se pousmál.
+
+"Řekněme, že se ti podaří dokončit akademii. Co plánuješ dělat za práci?" Briana
+
+Leo: "Chci pomoct těm na které se moc nehledí a to je lidem na vesnici a na samotě."
+
 
 

@@ -1,12 +1,4 @@
-ARC: The Trials
-	when they are bonding: "Nonsense. The best beer by far is Rother. it is pricier but you cannot match the taste." "What are you 40? that is something that my dad would say. Look you clearly are disqualified in the future debates about beer. But let me tell you that *goat* is far superior." someone nods. the first person responds "Really? You agree with him. My god." he says it and burst out laughing. and everyone start.
-  
 
-Obstacles: 
-
-  
-
-Goals: Our characters want to become Heroes
 
 ### **Under lying points in the story:**
 ### Can dedication to one craft/area give us meaning? 
