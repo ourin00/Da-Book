@@ -12,35 +12,45 @@ Ourin
 # Kapitola 1
 ## Podkapitola 1
 
-Černé auto jelo po silnici plné děr směrem k nevýznamné vesnici. Auto poskakovalo po výmolech, Josef zívl. Ta cesta byla nekonečná.
+Černé auto jelo po silnici plné děr směrem k nevýznamné vesnici. Kolem proběhlo stádo srnek. Josef po dlouhé cestě náhle zbystřil. "To je snad paté stádo srnek co jsme potkali, během dvaceti minut." nervozita mu pomalu sílila.
 
-Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí.
+Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí. 
 
-"Toro," ztlumil rádio a zavrčel. "Připomeň mi, proč musíme jet **tři hodiny** do nějaké blbé vesnice?"
+"Hmm?" Zvedla hlavu a rozhlédla se kolem sebe. "Kde?"
 
-"Do **Grunska**," zdůraznila a ani nezvedla oči: "Jedeme proto, že zde našli rozežrané tělo mladého chlapce."
+"Toro," ztlumil rádio a zavrčel. "Kdyby jsi furt nečuměla do těch papírů, a všímala si okolí."
 
-"Takže někoho zabil medvěd nebo něco – a my tu musíme být?" rozčiloval se, máchal rukama a vrtěl hlavou.
+Hlavu měla opět skloněnou. "Abych viděla stádo srnek? Ne díky."
+
+"Ne stádo srnek, ale stáda! Během dvaceti minut ani ne." Její nezájem ho čím dál víc iritoval. 
+
+Odpovědi se nedočkal. Zanedlouho tichá atmosféra byla přebita jeho žalem. "Co vůbec v těch papírech furt čteš?"
+
+"Třeba to, že do **Grunska**," chladně zdůraznila aniž by zvedla oči: "Jedeme proto, že tam našli rozežrané tělo mladého chlapce."
+
+"Že by ho napadl medvěd? To nikoho nenapadlo?" vyhrkl, celý červený vzteky. "a my tam kvůli tomu jedeme?" 
 
 Toro si ani nevšimla jeho dětinského výbuchu a začala číst zprávu nahlas: "Tak nevím, jestli zrovna medvěd dokáže do těla dostat tmavě zelenou tekutinu, která, a cituji *rozežrala rukavice jednomu ze záchranářů a při dlouhodobém dýchaní v blízkosti způsobila nevolnosti doprovázené zvracením*." 
 
-"No tak medvěd to nebude. To mi zní jako kyselina."  Zamumlal si pod vousy. Tep mu zrychlil a barva z obličeje zmizela.
+"Kyselina? Klasika, vždycky to je kyselina." Zamumlal aniž by pohlédl na Toru. Tep mu zrychlil a barva z obličeje zmizela.
 
 Pohlédla na něj s drobným úsměvem – takovým tím, který pramení z cizího neštěstí. "Tak Josefe, a důvod, proč zrovna ty tu musíš být, je jednoduchý. Když někdo řekne ředitelovi, cituji, *že je strašnej debil*, člověk se nemůže divit, že dostane takovou práci."
 
 "Avšak to je debil, jenom mu všichni lezou do prdele." Neodpustil si komentář. 
 
-Zanedlouho dorazili do Grunska, kde zeleň listnáčů vysázených kolem silnice vítala každého, kdo přijížděl. Zaparkovali na náměstí, uprostřed něhož se tyčila mramorová kašna. Po celé vesnici panoval klid – až nepřirozený. S tím, co se stalo, by však byli všichni radši, kdyby se aspoň něco dělo. 
+Zanedlouho dorazili do Grunska, kde zeleň listnáčů vysázených kolem silnice vítala každého, kdo přijížděl. Zaparkovali na náměstí, uprostřed něhož se tyčila mramorová kašna. 
+Po celé vesnici panoval klid – až nepřirozený. S tím, co se stalo, by však byli všichni radši, kdyby se aspoň něco dělo. 
 
-Po zaslouženém protažení svalů se vydali na místo činu. Při cestě zpozorovali několik zvířat jak prchala z lesa. Nebe bylo zaplněné černými tečkami kroužící nad lesem. 
+Po zaslouženém protažení svalů se vydali na místo činu. Šli úzkou cestou, která je vedla směrem k lesu. 
+Každých několik set metrů z lesa vyběhlo pár zvířat, jako by tempo jejich kroků diktovalo únik. Nebe bylo zaplněné černými tečkami kroužící nad lesem. Rozechvělé větve a šum listí se nesly krajinou, jako šepot po katastrofě. 
 
-Tora se zastavila. "Tolik vran... proč?"
+Toro se zastavila. "Tolik vran... proč?"
 
-"Nechci to přiznávat, ale moje tušení je že tam někdo, nebo spíš něco, nechává zbytky masa." Chvíle ticha převládla moment. "Bohužel je tu otázka kdo je zabíjí?" v očích mu vládl strach. 
+"Vypadá to, jako by se chystali na hostinu." Na okamžik se odmlčel. V očích se mu zaleskl strach. 
 
-Tora neodpověděla, představa takového monstra ji zcela znepokojovala.
+Tora neodpověděla, představa takové hostiny ji zcela znepokojovala.
 
-Vysílačky praskaly a neustálá mluva rozbíjely tichou cestu. Stromy odrážely blikající světlo z policejních majáků, jako by byly zrcadla. Žluto-černá páska se táhla několik metrů kolem nich, střežena několika příslušníky místní policie. Les široký asi tři kilometry odděloval Grundál od vesnice Horbl.
+Vysílačky praskaly a neustálá mluva rozbíjela tichou cestu. Stromy odrážely blikající světlo z policejních majáků, jako by byly zrcadla. Žluto-černá páska se táhla několik metrů kolem nich, střežena několika příslušníky místní policie. Les široký asi tři kilometry odděloval Grundál od vesnice Horbl.
 
 Suché listí křupalo pod nohama. Stromy místy propouštěly sluneční paprsky, jež dopadaly v úzkých pruzích, jako reflektory v nočním klubu. Každým krokem se zesiloval hnisavý pach, jehož zdroj měli zanedlouho před sebou.
 
