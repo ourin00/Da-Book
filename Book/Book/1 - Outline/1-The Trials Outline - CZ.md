@@ -13,7 +13,7 @@ Ourin
 ## Podkapitola 1
 
 Černé auto poskakovalo po silnici plné děr. Tichou atmosféru narušilo stádo prchajících srnek. Josef po dlouhé cestě náhle zbystřil.
-"To je snad páté stádo srnek, co jsme potkali během dvaceti minut." řekl, zatímco mu po zádech přeběhl mráz.
+"To je snad páté stádo srnek, co jsme potkali během dvaceti minut," řekl, zatímco mu po zádech přeběhl mráz.
 
 Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí. 
 
@@ -34,7 +34,7 @@ Oči se mu vykulily, nevěřícně se otočil na Toru a vyhrkl. "My tam jedeme k
 Toro si ani nevšimla jeho dětinského výbuchu a začala číst zprávu nahlas:
 "Tak nevím, jestli zrovna medvěd dokáže do těla dostat tmavě zelenou tekutinu, která – a cituji – *rozežrala rukavice jednomu ze záchranářů a při dlouhodobém dýchaní v blízkosti způsobila nevolnosti doprovázené zvracením*." Až poté, co to přečetla nahlas, musela papíry odložit. Myšlenka na to, proč jedou, ji začala znervózňovat.
 
-"Kyselina? Klasika, vždycky to je kyselina," zamumlal aniž by pohlédl na Toru. Chlupy se mu vztyčili po celém těle. Snad se ta zpráva mílí. 
+"Kyselina? Klasika, vždycky to je kyselina," zamumlal aniž by pohlédl na Toru. Chlupy se mu vztyčily po celém těle. Snad se ta zpráva mílí. 
 
 Pohlédla na něj s drobným úsměvem – takovým tím, který pramení z cizího neštěstí. "Tak Josefe, a důvod, proč zrovna ty tu musíš být, je jednoduchý. Když někdo řekne ředitelovi, cituji, *že je strašnej debil*, člověk se nemůže divit, že dostane takovou práci."
 
