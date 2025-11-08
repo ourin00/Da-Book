@@ -12,50 +12,60 @@ Ourin
 # Kapitola 1
 ## Podkapitola 1
 
-Černé auto jelo po silnici plné děr směrem k nevýznamné vesnici. Kolem proběhlo stádo srnek. Josef po dlouhé cestě náhle zbystřil. "To je snad paté stádo srnek co jsme potkali, během dvaceti minut." nervozita mu pomalu sílila.
+Černé auto poskakovalo po silnici plné děr. Tichou atmosféru narušilo stádo prchajících srnek. Josef po dlouhé cestě náhle zbystřil.
+"To je snad páté stádo srnek, co jsme potkali během dvaceti minut." řekl, zatímco mu po zádech přeběhl mráz.
 
 Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí. 
 
 "Hmm?" Zvedla hlavu a rozhlédla se kolem sebe. "Kde?"
 
-"Toro," ztlumil rádio a zavrčel. "Kdyby jsi furt nečuměla do těch papírů, a všímala si okolí."
+"Toro," ztlumil rádio a zavrčel, "Kdybys furt nečuměla do těch papírů, a všímala si okolí."
 
-Hlavu měla opět skloněnou. "Abych viděla stádo srnek? Ne díky."
+Hlavu znovu sklonila. "Abych koukala na srnky? Ne, díky."
 
-"Ne stádo srnek, ale stáda! Během dvaceti minut ani ne." Její nezájem ho čím dál víc iritoval. 
+"Ne stádo srnek, ale stáda! Během necelých dvaceti minut!" Její nezájem ho čím dál víc iritoval. 
 
-Odpovědi se nedočkal. Zanedlouho tichá atmosféra byla přebita jeho žalem. "Co vůbec v těch papírech furt čteš?"
+Odpovědi se nedočkal. Zanedlouho tichou atmosféru přebil jeho povzdech. "Co vůbec v těch papírech furt čteš?"
 
-"Třeba to, že do **Grunska**," chladně zdůraznila aniž by zvedla oči: "Jedeme proto, že tam našli rozežrané tělo mladého chlapce."
+"Třeba to, že do **Grundálu**," chladně zdůraznila aniž by zvedla oči: "Jedeme proto, že tam našli rozežrané tělo mladého chlapce."
 
-"Že by ho napadl medvěd? To nikoho nenapadlo?" vyhrkl, celý červený vzteky. "a my tam kvůli tomu jedeme?" 
+Oči se mu vykulily, nevěřícně se otočil na Toru a vyhrkl. "My tam jedeme kvůli medvědovi?" V podvědomí věděl, že tomu tak není.
 
-Toro si ani nevšimla jeho dětinského výbuchu a začala číst zprávu nahlas: "Tak nevím, jestli zrovna medvěd dokáže do těla dostat tmavě zelenou tekutinu, která, a cituji *rozežrala rukavice jednomu ze záchranářů a při dlouhodobém dýchaní v blízkosti způsobila nevolnosti doprovázené zvracením*." 
+Toro si ani nevšimla jeho dětinského výbuchu a začala číst zprávu nahlas:
+"Tak nevím, jestli zrovna medvěd dokáže do těla dostat tmavě zelenou tekutinu, která – a cituji – *rozežrala rukavice jednomu ze záchranářů a při dlouhodobém dýchaní v blízkosti způsobila nevolnosti doprovázené zvracením*." Až poté, co to přečetla nahlas, musela papíry odložit. Myšlenka na to, proč jedou, ji začala znervózňovat.
 
-"Kyselina? Klasika, vždycky to je kyselina." Zamumlal aniž by pohlédl na Toru. Tep mu zrychlil a barva z obličeje zmizela.
+"Kyselina? Klasika, vždycky to je kyselina," zamumlal aniž by pohlédl na Toru. Chlupy se mu vztyčili po celém těle. Snad se ta zpráva mílí. 
 
 Pohlédla na něj s drobným úsměvem – takovým tím, který pramení z cizího neštěstí. "Tak Josefe, a důvod, proč zrovna ty tu musíš být, je jednoduchý. Když někdo řekne ředitelovi, cituji, *že je strašnej debil*, člověk se nemůže divit, že dostane takovou práci."
 
-"Avšak to je debil, jenom mu všichni lezou do prdele." Neodpustil si komentář. 
+"Avšak to je debil, jenom mu všichni lezou do prdele," neodpustil si komentář. 
 
-Zanedlouho dorazili do Grunska, kde zeleň listnáčů vysázených kolem silnice vítala každého, kdo přijížděl. Zaparkovali na náměstí, uprostřed něhož se tyčila mramorová kašna. 
+Zanedlouho dorazili do Grundálu, kde zeleň listnáčů vysázených kolem silnice vítala každého, kdo přijížděl. Zaparkovali na náměstí, uprostřed něhož se tyčila mramorová kašna. 
+
 Po celé vesnici panoval klid – až nepřirozený. S tím, co se stalo, by však byli všichni radši, kdyby se aspoň něco dělo. 
 
 Po zaslouženém protažení svalů se vydali na místo činu. Šli úzkou cestou, která je vedla směrem k lesu. 
-Každých několik set metrů z lesa vyběhlo pár zvířat, jako by tempo jejich kroků diktovalo únik. Nebe bylo zaplněné černými tečkami kroužící nad lesem. Rozechvělé větve a šum listí se nesly krajinou, jako šepot po katastrofě. 
+Každých několik set metrů z lesa vyběhlo pár zvířat, jako by tempo jejich kroků diktovalo únik. Nebe bylo zaplněné černými tečkami kroužící nad lesem. Rozechvělé větve a šum listí se nesly krajinou jako šepot po katastrofě. 
 
 Toro se zastavila. "Tolik vran... proč?"
 
 "Vypadá to, jako by se chystali na hostinu." Na okamžik se odmlčel. V očích se mu zaleskl strach. 
 
-Tora neodpověděla, představa takové hostiny ji zcela znepokojovala.
+Tora neodpověděla; představa takové hostiny ji zcela znepokojovala.
 
 Vysílačky praskaly a neustálá mluva rozbíjela tichou cestu. Stromy odrážely blikající světlo z policejních majáků, jako by byly zrcadla. Žluto-černá páska se táhla několik metrů kolem nich, střežena několika příslušníky místní policie. Les široký asi tři kilometry odděloval Grundál od vesnice Horbl.
 
-Suché listí křupalo pod nohama. Stromy místy propouštěly sluneční paprsky, jež dopadaly v úzkých pruzích, jako reflektory v nočním klubu. Každým krokem se zesiloval hnisavý pach, jehož zdroj měli zanedlouho před sebou.
+Prach se jim lepil na boty. Listy vlály ve větvích, které šlehaly každého, kdo procházel. Koruny stromů propouštěly sluneční paprsky, jež dopadaly v úzkých pruzích.
 
-Rozežrané tělo leželo v trávě – bez břicha, bez vnitřností. Zůstala jen rozlámaná žebra trčící z torza. 
-Krev se mísila se zelenou tekutinou. Byla hustá jako omáčka a smrděla tak, že pálila oči.
+Pach hnisu sílil s každým krokem. 
+Rozežrané tělo leželo v trávě – bez břicha, bez vnitřností. 
+Zůstala jen rozlámaná žebra trčící z torza. 
+Krev se mísila se zelenou tekutinou; byla hustá jako omáčka a smrděla tak, že pálila oči. 
+
+Tora zastavila, strach jí zcela ovládl. Panebože, to snad není možný.
+Josef pokračoval, oči mu začaly slzet, tep zrychlovat. 
+Cítil, jak se mu tvoří pot na čele. 
+Jeho mysl s ním ale hrála triky; sama totiž chtěla utéct. Nemůžu se otočit jako nějaký zbabělec, to nejsem já!
 
 
 Leo po této zprávě vypnul mobil a odešel z pokoje, v kuchyni potkal otce, který četl noviny.
