@@ -10,9 +10,9 @@ Untitled Unmastered
 Ourin
 
 # Kapitola 1
-## Podkapitola 1
+## Do lesa zelená nepatří
 
-Černé auto poskakovalo po silnici plné děr. Josef po dlouhé cestě náhle zbystřil.
+Východ slunce pozlatil krajinu, kterou projíždělo černé auto po rozbité silnici. Po dlouhé cestě Josef zbystřil.
 
 "To je snad páté stádo srnek, co jsme potkali během dvaceti minut," řekl a po zádech mu přeběhl mráz.
 
@@ -20,13 +20,13 @@ Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky s
 
 "Hmm?" zvedla hlavu a rozhlédla se kolem sebe. "Kde?"
 
-"Toro," ztlumil rádio a zavrčel, "ty vůbec nedáváš pozor na věci kolem sebe."
+ Ztlumil rádio a zavrčel: "Toro... ty vůbec nedáváš pozor na věci kolem sebe."
 
 Hlavu znovu sklonila. "Abych viděla stádo srnek? Ne, díky." 
 
 "Ne stádo srnek, ale stáda! Během necelých dvaceti minut!" Její nezájem ho čím dál víc iritoval. 
 
-Odpovědi se nedočkal. Zanedlouho tichou atmosféru přebil jeho povzdech. "Co vůbec v těch papírech furt čteš?"
+Ticho mezi nimi se táhlo, dokud ho Josefův povzdech neodřízl. "Co tam celou dobu čteš?"
 
 "Třeba to, že do **Grundálu**," chladně zdůraznila, aniž by zvedla oči: "Jedeme proto, že tam našli rozežrané tělo mladého chlapce."
 
@@ -39,7 +39,7 @@ Toro si ani nevšimla jeho dětinského výbuchu a začala číst zprávu nahlas
 
 Pohlédla na něj s drobným úsměvem – takovým tím, který pramení z cizího neštěstí. "Tak Josefe, a důvod, proč zrovna ty tu musíš být, je jednoduchý. Když někdo řekne ředitelovi, cituji, *že je strašnej debil*, člověk se nemůže divit, že dostane takovou práci."
 
-"Avšak to je debil, jenom mu všichni lezou do prdele," neodpustil si komentář. 
+"Omlouvám se, ale je to debil, jenom mu všichni lezou do prdele," neodpustil si komentář. 
 
 Zanedlouho dorazili do Grundálu, kde zeleň listnáčů vysázených kolem silnice vítala každého, kdo přijížděl. Zaparkovali na náměstí, uprostřed něhož se tyčila mramorová kašna. 
 
@@ -61,25 +61,25 @@ Listy vlály ve větvích, které šlehaly každého, kdo procházel. Světlo sl
 Pach hnisu sílil s každým krokem. 
 Rozežrané tělo leželo v trávě – bez břicha, bez vnitřností. 
 Zůstala jen rozlámaná žebra trčící z torza. 
-Krev se mísila se zelenou tekutinou; byla hustá jako omáčka a smrděla tak, že pálila oči. 
+Krev se mísila se žíravým sekretem; byl hustý jako omáčka a smrděla tak, že pálila oči. 
 
-Tora zastavila, strach jí zcela ovládl. Panebože, to snad není možný. Proč je obličej skoro nedotčen? Začal se jí zvedat žaludek. Nemůžu jít dál, to nejde snést.
+Tora zastavila, strach jí zcela ovládl. Bože... to snad není možný. Proč je obličej skoro nedotčen? Začal se jí zvedat žaludek. Nemůžu jít dál, to nejde snést.
 Josef pokračoval, oči mu začaly slzet, tep zrychlovat. 
 Cítil, jak se mu tvoří pot na čele. 
 Jeho mysl s ním ale hrála triky; sama totiž chtěla utéct. Nemůžu se otočit jako nějaký zbabělec, to nejsem já!
 
 Zastavil se a začal úplně jinak přemýšlet – soustředěně. 
-Tělo zcela rozežrané, ale zároveň hlava je zcela v pořádku. Při manipulaci vytekla kyselina – chrání si své oběti. Hraje si se svojí obětí? Nebo je to vše vypočítané? 
+Tělo zcela rozežrané, hlava však neporušená. Při manipulaci vytekla kyselina, jako by chránila svou oběť. Hraje si se svojí obětí? Nebo je to vše vypočítané? 
 
 "Jak dlouho tu leží?" otočil se na strážníka. 
 
 "Našli jsme ho včera večer," zamumlal skrze roušku.
 
-Hmm, zelená kůže u ramen, zároveň se lehce odlepuje na nohách. Nemůže tu ležet déle jak 3 dny.
+Hmm, zelená kůže u ramen, zároveň se lehce odlepuje na nohách. Nemůže tu ležet déle jak tři dny.
 
 "Děkuji strážníku." otočil se a šel k Toře. 
 
-Během cesty řekl strážníkovi. "Musíme počítat s nejhorším scénářem. Vypadá to že, monstrum vyznačuje známky inteligence. Potřebuji aby jste zabezpečili celý les." Jeho sarkasmus zmizel tváři v tvář vážnosti situace.
+Během cesty řekl strážníkovi. "Musíme počítat s nejhorším scénářem. Vypadá to, že monstrum vyznačuje známky inteligence. Potřebuji aby jste zabezpečili celý les." Jeho sarkasmus zmizel tváři v tvář vážnosti situace.
 
 "Celý les?" nevěřil svým uším. "Na to nemáme kapacitu, už teďka tady máme skoro všechny."
 
@@ -87,43 +87,35 @@ Během cesty řekl strážníkovi. "Musíme počítat s nejhorším scénářem.
 
 Vzala telefon a zavolala na detektivní oddělení Michalovi akademie. 
 
-"Dobrý den, zde Toro Milová." Oznámila.
+"Dobrý den, zde Toro Milová," oznámila.
 
 Ženský hlas zazněl z mobilu. "Dobrý den, Toro, s čím vám můžu pomoci."
 
-"Momentálně jsme na případu 17-05-84. Přiřazujeme kód 24. Za jak dlouho se k nám někdo dostane?" Správně bych měla říct kód 15 ale tohle není ledajaké monstrum.
+"Hlásím kód 24. Za jak dlouho se k nám někdo dostane?" Správně bych měla říct kód 15 ale tohle není ledajaké monstrum.
 
-Z telefonu šel šum. "Potvrzuji. Váš nadřízený zamítá kód 24, ale schvaluje posily. Očekávaný příjezd zítřek odpoledne."
+"Potvrzuji..." To je věčnost. Postěžovala si. "Váš nadřízený zamítá kód 24, ale schvaluje posily. Očekávaný příjezd zítřek odpoledne."
 
-Dech se jí zastavil. Každý jeho krok byl pro ní zněl jako válečný buben. V duchu se uklidňovala. Určitě někdo přijede dřív. "Dobrá děkuji." odpověděla a položila hovor.
+Dech se jí zastavil. V duchu se uklidňovala. Určitě někdo přijede dřív. "Dobrá děkuji." odpověděla a položila hovor.
 
-Počkala až k ní přišli a odpověděla. "Nejdříve zítra odpoledne, ale určitě přijede někdo dřív ne?"
+Zvedla pohled na Josefa. "Nejdříve zítra odpoledne, ale určitě přijede někdo dřív ne?"
 
-Povzdechl si. "Musíme se rozdělit a nějak to vylákat." 
+Viděl jí strach v očích. Povzdechl si. Oba tušili, že barvy lesa vyjasní až měsíční záře. 
 
-"Počkej to jako vážně přijede někdo až zítra?" Nechtěla tomu uvěřit.
+## Podkapitola 2 
+____
+Slunce zapadalo za horizont a měsíc sílil ve své záři.
 
+Zatímco Josef s Torou pročesávali les na druhém konci Grundálu, pár kilometrů dál se dva kluci loudali domů.
 
+Leo s Davidem celý den prolelkovali v Grundálu. Večer se rozhodli jít domů do Horblu.  
 
-Leo po této zprávě vypnul mobil a odešel z pokoje, v kuchyni potkal otce, který četl noviny.
+Vydali se po asfaltové cestě, která se zanedlouho proměnila v štěrk. Před nimi se táhl les, ozařován měsícem. 
 
-"No věříš tomu?" Zeptal se Leo.
+V půli cesty před sebou slyšeli divné zvuky, které zajisté nepřipomínaly medvědí zvuky. Byla to kombinace klapajících zubů a hlubokého vrčení. 
 
-"Co? čemu zase?" Otec zmateně odpověděl.
+Oba zůstali stát. Silueta vysoká dva a půl metru se před nimi začala přibližovat. 
 
-"Martina Kurtáše roztrhal medvěd. Neuvěřitelný," nevěřícně kroutil hlavou.
-
-"To teda." Odpověděl otec a pokračoval "slyšel jsem, že prej to nebyl medvěd, že tu řádí nějaké monstrum a pan starosta si na to pozval, nějaký ty *hrdiny* z té akademie."
-
-"Prosim tě a od koho si to slyšel?" Skepticky vznesl otázku.
-
-Otec chvilku nechtěl odpovídat. "No od Lojzy, no."
-
-"Od Lojzy jo? A tomu bláznovi věříš?" řekl Leo.
-
-"Hele jdi radši ven a nemoralizuj mě tady," vyhnal ho otec.
-
-Jak Otec řekl tak Leo udělal a šel ven s Davidem až do večera. Večer se objevil z nenadání a rozhodli se jít domů. V půli cesty před sebou slyšeli divné zvuky, které zajisté nepřipomínali medvědí zvuky. Byla to kombinace klapajících zubu a hlubokého vrčení. Zrychlili krok. Ani neudělali pět kroků a oba zůstali stát. Silueta vysoká dva a půl metru se před nimi začala přibližovat. Najednou oba zachvátila instinktivní potřeba utéct. Nebylo to totiž něco co by někdy viděli. Bledě bílé nohy monstrum táhly blíže a blíže k chlapcům. Ti se mezitím schovali za stromy. Neustálé klapání čelistí přestalo. Chrčení zesílilo a celé tělo se začalo třepat. Pomalu se přibližovalo k Leovi. Každým krokem křupali větve. Leo nevěděl co dělat, srdce mu bušilo čím dál rychleji, myšlenky se mu honili hlavou — uteč, zůstaň, uteč, zůstaň, dokola a dokola. Křup. 
+Najednou oba zachvátila instinktivní potřeba utéct. Nebylo to totiž něco co by někdy viděli. Bledě bílé nohy monstrum táhly blíže a blíže k chlapcům. Ti se mezitím schovali za stromy. Neustálé klapání čelistí přestalo. Chrčení zesílilo a celé tělo se začalo třepat. Pomalu se přibližovalo k Leovi. Každým krokem křupali větve. Leo nevěděl co dělat, srdce mu bušilo čím dál rychleji, myšlenky se mu honili hlavou — uteč, zůstaň, uteč, zůstaň, dokola a dokola. Křup. 
 
 Davidovi nohy se rozeběhli cestou k vesnici. Monstrum se rozeběhlo jeho směrem. Leo vyběhl za Davidem, strach mu překonala kuráž jeho kamaráda. Na cestě ani žíví ani mrtví. Řev z lesa. Leo bezhlavě běží za zvukem. Ticho. Zmateně hledal svého kamaráda, *kde je?* a *musím ho najít* mu neustále zaplavovalo hlavu. Jeho přání se mu splnilo. Davidovo tělo obklopené tichem bylo požíráno monstrem. Leo nevěřícně kouká na scénu předním, nedokáže si to vysvětlil. Leova přítomnost přiláká monstrum. Vylítlo na Lea takovou rychlostí, že to ani nestihl zaznamenat. Najednou byl Leo jinde. "Promiň, že jsem byl tak pomalí." zazněl mužský hlas.
 
