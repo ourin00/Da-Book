@@ -13,13 +13,13 @@ Ourin
 ## Podkapitola 1
 
 Černé auto poskakovalo po silnici plné děr. Tichou atmosféru narušilo stádo prchajících srnek. Josef po dlouhé cestě náhle zbystřil.
-"To je snad páté stádo srnek, co jsme potkali během dvaceti minut," řekl, zatímco mu po zádech přeběhl mráz.
+"To je snad páté stádo srnek, co jsme potkali během dvaceti minut," řekl a po zádech mu přeběhl mráz.
 
 Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí. 
 
-"Hmm?" Zvedla hlavu a rozhlédla se kolem sebe. "Kde?"
+"Hmm?" zvedla hlavu a rozhlédla se kolem sebe. "Kde?"
 
-"Toro," ztlumil rádio a zavrčel, "Kdybys furt nečuměla do těch papírů, a všímala si okolí."
+"Toro," ztlumil rádio a zavrčel, "kdybys furt nečuměla do těch papírů, a všímala si okolí."
 
 Hlavu znovu sklonila. "Abych koukala na srnky? Ne, díky."
 
@@ -27,12 +27,12 @@ Hlavu znovu sklonila. "Abych koukala na srnky? Ne, díky."
 
 Odpovědi se nedočkal. Zanedlouho tichou atmosféru přebil jeho povzdech. "Co vůbec v těch papírech furt čteš?"
 
-"Třeba to, že do **Grundálu**," chladně zdůraznila aniž by zvedla oči: "Jedeme proto, že tam našli rozežrané tělo mladého chlapce."
+"Třeba to, že do **Grundálu**," chladně zdůraznila, aniž by zvedla oči: "Jedeme proto, že tam našli rozežrané tělo mladého chlapce."
 
 Oči se mu vykulily, nevěřícně se otočil na Toru a vyhrkl. "My tam jedeme kvůli medvědovi?" V podvědomí věděl, že tomu tak není.
 
 Toro si ani nevšimla jeho dětinského výbuchu a začala číst zprávu nahlas:
-"Tak nevím, jestli zrovna medvěd dokáže do těla dostat tmavě zelenou tekutinu, která – a cituji – *rozežrala rukavice jednomu ze záchranářů a při dlouhodobém dýchaní v blízkosti způsobila nevolnosti doprovázené zvracením*." Až poté, co to přečetla nahlas, musela papíry odložit. Myšlenka na to, proč jedou, ji začala znervózňovat.
+"Tak nevím, jestli zrovna medvěd dokáže do těla dostat tmavě zelenou tekutinu, která – a cituji – *rozežrala rukavice jednomu ze záchranářů a při dlouhodobém dýchání v blízkosti způsobila nevolnosti doprovázené zvracením*." Až poté, co to přečetla nahlas, musela papíry odložit. Myšlenka na to, proč jedou, ji začala znervózňovat.
 
 "Kyselina? Klasika, vždycky to je kyselina," zamumlal aniž by pohlédl na Toru. Chlupy se mu vztyčily po celém těle. Snad se ta zpráva mílí. 
 
@@ -53,7 +53,7 @@ Toro se zastavila. "Tolik vran... proč?"
 
 Tora neodpověděla; představa takové hostiny ji zcela znepokojovala.
 
-Vysílačky praskaly a neustálá mluva rozbíjela tichou cestu. Stromy odrážely blikající světlo z policejních majáků, jako by byly zrcadla. Žluto-černá páska se táhla několik metrů kolem nich, střežena několika příslušníky místní policie. Les široký asi tři kilometry odděloval Grundál od vesnice Horbl.
+Vysílačky praskaly a neustálá mluva rozbíjela tichou cestu. Stromy odrážely blikající světlo z policejních majáků, jako by byly zrcadly. Žluto-černá páska se táhla několik metrů kolem nich, střežena několika příslušníky místní policie. Les široký asi tři kilometry odděloval Grundál od vesnice Horbl.
 
 Prach se jim lepil na boty. Listy vlály ve větvích, které šlehaly každého, kdo procházel. Koruny stromů propouštěly sluneční paprsky, jež dopadaly v úzkých pruzích.
 
@@ -62,10 +62,34 @@ Rozežrané tělo leželo v trávě – bez břicha, bez vnitřností.
 Zůstala jen rozlámaná žebra trčící z torza. 
 Krev se mísila se zelenou tekutinou; byla hustá jako omáčka a smrděla tak, že pálila oči. 
 
-Tora zastavila, strach jí zcela ovládl. Panebože, to snad není možný.
+Tora zastavila, strach jí zcela ovládl. Panebože, to snad není možný. Proč je obličej skoro nedotčen? Že by to monstrum mělo intelekt, nebo to je jenom nějaký rituál? Začal se jí zvedat žaludek. 
 Josef pokračoval, oči mu začaly slzet, tep zrychlovat. 
 Cítil, jak se mu tvoří pot na čele. 
 Jeho mysl s ním ale hrála triky; sama totiž chtěla utéct. Nemůžu se otočit jako nějaký zbabělec, to nejsem já!
+
+Zastavil se a začal úplně jinak přemýšlet – soustředěně. 
+Tělo zcela rozežrané, ale zároveň hlava je zcela v pořádku. Při manipulaci vytekla kyselina – chrání si své oběti. Musíme počítat s vyšším intelektem. 
+
+"Jak dlouho tu leží?" otočil se na strážníka. 
+
+"Našli jsme ho včera večer," zamumlal skrze roušku.
+
+Hmm, zelená kůže u ramen, zároveň se lehce odlepuje na nohách. Nemůže tu ležet déle jak 3 dny.
+
+"Děkuji strážníku." otočil se a šel k Toře. 
+
+Během cesty řekl strážníkovi. "Monstrum vyznačuje známky nadměrné inteligence. Potřebuji aby jste zabezpečili celý les." Jeho sarkasmus zmizel tváři v tvář vážnosti situace.
+
+"Celý les?" nevěřil svým uším. "Na to nemáme kapacitu, už teďka tady máme skoro všechny."
+
+"Toro!" vykřikl "Potřebujeme více lidí, za jak dlouho někdo dorazí."
+
+Počkala až k ní přišli a odpověděla. "Nejdříve zítra ráno, je skoro nulová šance že dneska někoho pošlou."
+
+"Kurva," povzdechl si. "No nic, musíme se rozdělit a nějak to vylákat." 
+
+"Máš pravdu, nic jiného nám nezbývá" I když nechtěla, tak jí nezbývalo nic jiného než souhlasit.
+
 
 
 Leo po této zprávě vypnul mobil a odešel z pokoje, v kuchyni potkal otce, který četl noviny.
