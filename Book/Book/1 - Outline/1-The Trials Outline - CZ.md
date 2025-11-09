@@ -12,16 +12,17 @@ Ourin
 # Kapitola 1
 ## Podkapitola 1
 
-Černé auto poskakovalo po silnici plné děr. Tichou atmosféru narušilo stádo prchajících srnek. Josef po dlouhé cestě náhle zbystřil.
+Černé auto poskakovalo po silnici plné děr. Josef po dlouhé cestě náhle zbystřil.
+
 "To je snad páté stádo srnek, co jsme potkali během dvaceti minut," řekl a po zádech mu přeběhl mráz.
 
 Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí. 
 
 "Hmm?" zvedla hlavu a rozhlédla se kolem sebe. "Kde?"
 
-"Toro," ztlumil rádio a zavrčel, "kdybys furt nečuměla do těch papírů, a všímala si okolí."
+"Toro," ztlumil rádio a zavrčel, "ty vůbec nedáváš pozor na věci kolem sebe."
 
-Hlavu znovu sklonila. "Abych koukala na srnky? Ne, díky."
+Hlavu znovu sklonila. "Abych viděla stádo srnek? Ne, díky." 
 
 "Ne stádo srnek, ale stáda! Během necelých dvaceti minut!" Její nezájem ho čím dál víc iritoval. 
 
@@ -55,20 +56,20 @@ Tora neodpověděla; představa takové hostiny ji zcela znepokojovala.
 
 Vysílačky praskaly a neustálá mluva rozbíjela tichou cestu. Stromy odrážely blikající světlo z policejních majáků, jako by byly zrcadly. Žluto-černá páska se táhla několik metrů kolem nich, střežena několika příslušníky místní policie. Les široký asi tři kilometry odděloval Grundál od vesnice Horbl.
 
-Prach se jim lepil na boty. Listy vlály ve větvích, které šlehaly každého, kdo procházel. Koruny stromů propouštěly sluneční paprsky, jež dopadaly v úzkých pruzích.
+Listy vlály ve větvích, které šlehaly každého, kdo procházel. Světlo slunečních paprsků vybledlo celý les.
 
 Pach hnisu sílil s každým krokem. 
 Rozežrané tělo leželo v trávě – bez břicha, bez vnitřností. 
 Zůstala jen rozlámaná žebra trčící z torza. 
 Krev se mísila se zelenou tekutinou; byla hustá jako omáčka a smrděla tak, že pálila oči. 
 
-Tora zastavila, strach jí zcela ovládl. Panebože, to snad není možný. Proč je obličej skoro nedotčen? Že by to monstrum mělo intelekt, nebo to je jenom nějaký rituál? Začal se jí zvedat žaludek. 
+Tora zastavila, strach jí zcela ovládl. Panebože, to snad není možný. Proč je obličej skoro nedotčen? Začal se jí zvedat žaludek. Nemůžu jít dál, to nejde snést.
 Josef pokračoval, oči mu začaly slzet, tep zrychlovat. 
 Cítil, jak se mu tvoří pot na čele. 
 Jeho mysl s ním ale hrála triky; sama totiž chtěla utéct. Nemůžu se otočit jako nějaký zbabělec, to nejsem já!
 
 Zastavil se a začal úplně jinak přemýšlet – soustředěně. 
-Tělo zcela rozežrané, ale zároveň hlava je zcela v pořádku. Při manipulaci vytekla kyselina – chrání si své oběti. Musíme počítat s vyšším intelektem. 
+Tělo zcela rozežrané, ale zároveň hlava je zcela v pořádku. Při manipulaci vytekla kyselina – chrání si své oběti. Hraje si se svojí obětí? Nebo je to vše vypočítané? 
 
 "Jak dlouho tu leží?" otočil se na strážníka. 
 
@@ -78,17 +79,29 @@ Hmm, zelená kůže u ramen, zároveň se lehce odlepuje na nohách. Nemůže tu
 
 "Děkuji strážníku." otočil se a šel k Toře. 
 
-Během cesty řekl strážníkovi. "Monstrum vyznačuje známky nadměrné inteligence. Potřebuji aby jste zabezpečili celý les." Jeho sarkasmus zmizel tváři v tvář vážnosti situace.
+Během cesty řekl strážníkovi. "Musíme počítat s nejhorším scénářem. Vypadá to že, monstrum vyznačuje známky inteligence. Potřebuji aby jste zabezpečili celý les." Jeho sarkasmus zmizel tváři v tvář vážnosti situace.
 
 "Celý les?" nevěřil svým uším. "Na to nemáme kapacitu, už teďka tady máme skoro všechny."
 
 "Toro!" vykřikl "Potřebujeme více lidí, za jak dlouho někdo dorazí."
 
-Počkala až k ní přišli a odpověděla. "Nejdříve zítra ráno, je skoro nulová šance že dneska někoho pošlou."
+Vzala telefon a zavolala na detektivní oddělení Michalovi akademie. 
 
-"Kurva," povzdechl si. "No nic, musíme se rozdělit a nějak to vylákat." 
+"Dobrý den, zde Toro Milová." Oznámila.
 
-"Máš pravdu, nic jiného nám nezbývá" I když nechtěla, tak jí nezbývalo nic jiného než souhlasit.
+Ženský hlas zazněl z mobilu. "Dobrý den, Toro, s čím vám můžu pomoci."
+
+"Momentálně jsme na případu 17-05-84. Přiřazujeme kód 24. Za jak dlouho se k nám někdo dostane?" Správně bych měla říct kód 15 ale tohle není ledajaké monstrum.
+
+Z telefonu šel šum. "Potvrzuji. Váš nadřízený zamítá kód 24, ale schvaluje posily. Očekávaný příjezd zítřek odpoledne."
+
+Dech se jí zastavil. Každý jeho krok byl pro ní zněl jako válečný buben. V duchu se uklidňovala. Určitě někdo přijede dřív. "Dobrá děkuji." odpověděla a položila hovor.
+
+Počkala až k ní přišli a odpověděla. "Nejdříve zítra odpoledne, ale určitě přijede někdo dřív ne?"
+
+Povzdechl si. "Musíme se rozdělit a nějak to vylákat." 
+
+"Počkej to jako vážně přijede někdo až zítra?" Nechtěla tomu uvěřit.
 
 
 
