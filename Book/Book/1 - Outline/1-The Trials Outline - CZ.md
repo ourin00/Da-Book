@@ -14,7 +14,7 @@ Ourin
 
 Východ slunce pozlatil krajinu, kterou projíždělo černé auto po rozbité silnici. Po dlouhé cestě Josef zbystřil.
 
-"To je snad páté stádo srnek, co jsme potkali během dvaceti minut," řekl a po zádech mu přeběhl mráz.
+"To je snad páté stádo srnek, co jsme potkali během dvaceti minut," řekl. Po zádech mu přeběhl mráz.
 
 Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí. 
 
@@ -87,7 +87,7 @@ Během cesty řekl strážníkovi. "Musíme počítat s nejhorším scénářem.
 
 Vzala telefon a zavolala na detektivní oddělení Michalovi akademie. 
 
-"Dobrý den, zde Toro Milová," oznámila.
+"Dobrý den, zde Toro Milová."
 
 Ženský hlas zazněl z mobilu. "Dobrý den, Toro, s čím vám můžu pomoci."
 
