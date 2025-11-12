@@ -14,7 +14,7 @@ Ourin
 
 Východ slunce pozlatil krajinu, kterou projíždělo černé auto po rozbité silnici. Po dlouhé cestě Josef zpozorněl.
 
-"To je snad páté stádo srnek, co jsme potkali během dvaceti minut," řekl. Po zádech mu přeběhl mráz.
+"To je snad páté stádo srnek, co jsme potkali během dvaceti minut," Nevěřil vlastním očím. Po zádech mu přeběhl mráz.
 
 Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí. 
 
@@ -28,14 +28,14 @@ Hlavu znovu sklonila. "Abych viděla stádo srnek? Ne, díky."
 
 Ticho mezi nimi se táhlo, dokud ho Josefův povzdech neodřízl. "Co tam celou dobu čteš?"
 
-Chladně odpověděla, aniž by zvedla oči: "Třeba to, že do **Grundálu**, Jedeme proto, že tam našli tělo mladého chlapce, napůl rozežrané."
+Chladně kroutila hlavou, aniž by zvedla oči: "Třeba to, že do **Grundálu**, Jedeme proto, že tam našli tělo mladého chlapce, napůl rozežrané."
 
 Oči se mu vykulily, nevěřícně se otočil na Toru a vyhrkl. "My tam jedeme kvůli medvědovi?" V podvědomí věděl, že tomu tak není.
 
 Toro si ani nevšimla jeho dětinského výbuchu a začala číst zprávu nahlas:
 "Tak nevím, jestli zrovna medvěd dokáže do těla dostat tmavě zelenou tekutinu, která – a cituji – *rozežrala rukavice jednomu ze záchranářů a při dlouhodobém dýchání v blízkosti způsobila nevolnosti doprovázené zvracením*." Až poté, co to přečetla nahlas, musela papíry odložit. Myšlenka na to, proč jedou, ji začala znervózňovat.
 
-"Kyselina? Klasik, vždycky to je kyselina," zamumlal, aniž by pohlédl na Toru. Chlupy se mu vztyčily po celém těle. Snad je ta zpráva přehnaná, uklidňoval se, i když tomu sám nevěřil. 
+"Kyselina? Klasik, vždycky to je kyselina. Snad se to nezvrhne natolik abych musel použít magii" zamumlal, aniž by pohlédl na Toru. Chlupy se mu vztyčily po celém těle. Snad je ta zpráva přehnaná, uklidňoval se, i když tomu sám nevěřil. 
 
 Pohlédla na něj s drobným úsměvem – takovým tím, který pramení z cizího neštěstí. "Tak Josefe, a důvod, proč zrovna ty tu musíš být, je jednoduchý. Když někdo řekne ředitelovi, cituji, *že je strašnej debil*, člověk se nemůže divit, že dostane takovou práci."
 
@@ -100,7 +100,7 @@ Během cesty řekl strážníkovi: "Musíme počítat s nejhorším scénářem.
 
 "Toro!" vykřikl. "Potřebujeme více lidí. Za jak dlouho někdo dorazí?"
 
-Vzala telefon a zavolala na detektivní oddělení Michalovy akademie. 
+Vzala telefon a zavolala na detektivní oddělení Michalovy univerzity. 
 
 "Dobrý den, zde Toro Milová."
 
@@ -110,7 +110,7 @@ Vzala telefon a zavolala na detektivní oddělení Michalovy akademie.
 
 "Potvrzuji..." Dlouho se nikdo neozýval. "To je věčnost," potichu si postěžovala. "Váš nadřízený zamítá kód 24, ale schvaluje posily. Očekávaný příjezd zítřek odpoledne."
 
-Dech se jí zastavil. V duchu se uklidňovala. Určitě někdo přijede dřív. "Dobrá, děkuji," odpověděla a položila hovor.
+Dech se jí zastavil. V duchu se uklidňovala. Určitě někdo přijede dřív. "Dobrá, děkuji," položila hovor.
 
 Zvedla pohled na Josefa. "Nejdřív zítra odpoledne… ale někdo dorazí dřív, ne?"
 
@@ -142,7 +142,7 @@ Cesta se změnila ve štěrk a před nimi se zvedl les, osvětlený měsícem. L
 
 "Viděl jsem na druhé straně policejní auta, nevíš co se stalo?" Davida okolí znepokojovalo a ticho ho znervózňovalo. Musel mysl nějak zaměstnat.
 
-Otočil se na Davida a odpověděl "Nemám tušení. Marco se pár dnů zpátky ztratil – možná ho nehledají?" 
+Otočil se na Davida a pokrčil rameny "Nemám tušení. Marco se pár dnů zpátky ztratil – možná ho nehledají?" 
 
 Jak to dořekl David ho zastavil. Oči se mu chvěly strachem. "Co dě..." zakryl mu ústa. Před nimi byly slyšet divné zvuky, které rozhodně nepřipomínaly medvěda – spíš kombinaci klapajících zubů a hlubokého vrčení. 
 
@@ -176,9 +176,9 @@ Leo viděl, jak spadl na zem, a to ho dostalo z jeho tranzu. Vyběhl za ním. Za
 
 Přiběhla k nim Tora. Klekla si a začala analyzovat Josefa. Oči jí lítaly sem a tam. Ruce zvedaly jeho končetiny. *Dýchání – zrychlené. Ruce – drobné škrábance. Nohy – v pořádku. Trup – v celku.* Začala panikařit *Josefe, prosím tě, co ti je?*
 
-"Co se děje, najednou začal plivat krev?" panicky se zeptal Leo.
+"Co se děje, najednou začal plivat krev?" začal panikařit.
 
-"Buď je otrávený… nebo použil moc magie," odpověděla. 
+"Buď je otrávený… nebo použil moc magie," začala vytahovat mobil. 
 
 Kašel. 
 Josef začal s kašlem přicházet zpět. "Jseš v pořádku?" s děsem v očích se ho zeptala. 
@@ -224,7 +224,7 @@ Z kapsy vytáhl malou kartu, připomínající kreditku. Fotografie na horní č
 
 Kartu položil na dřevěný noční stolek. Jen kousek od něj stála levná jednolůžková postel povlečená světle béžovým prostěradlem. Na posteli ležel velký polštář s peřinou, jejich povlečení přecházelo od tmavě oranžové po světle oranžovou s nádechem žluté a připomínalo východ slunce.
 
-Na nočním stolku ležela krabice od bot s přilepeným žlutým lístkem: **Akademie.** Leo opatrně sundal víko. Bylo zřejmé, že na pohled obyčejná krabice skrývá důležité tajemství. Peníze. Kupa pečlivě srovnaných bankovek, od nejmenší stovky až po pětitisícovky, každá uskladněná ve svém hnízdě.
+Na nočním stolku ležela krabice od bot s přilepeným žlutým lístkem: **Univerzita.** Leo opatrně sundal víko. Bylo zřejmé, že na pohled obyčejná krabice skrývá důležité tajemství. Peníze. Kupa pečlivě srovnaných bankovek, od nejmenší stovky až po pětitisícovky, každá uskladněná ve svém hnízdě.
 
 S nevýrazným úsměvem na tváři, jako kdyby mu padl kámen ze srdce, vyndal koženou peněženku, ve které mimo jiné měl dvě pětitisícovky, a bez váhání je přiložil k ostatním.
 
