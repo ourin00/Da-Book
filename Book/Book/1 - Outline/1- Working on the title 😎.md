@@ -14,30 +14,30 @@ Ourin
 
 Východ slunce pozlatil krajinu, kterou projíždělo černé auto po rozbité silnici. Po dlouhé cestě Josef zpozorněl.
 
-"To je snad páté stádo srnek, co jsme potkali během dvaceti minut," Nevěřil vlastním očím. Po zádech mu přeběhl mráz.
+"To je snad páté stádo srnek, co jsme potkali," zamumlal nevěřícně. Po zádech mu přeběhl mráz.
 
-Vedle něj seděla Tora, ponořena do štosu papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí. 
+Vedle něj seděla Tora, ponořená do hromady papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí. 
 
-Zpráva ji pohltila natolik, že reagovala se zpožděním. "Hmm? Kde?" zvedla hlavu a rozhlédla se kolem sebe. 
+Zpráva ji pohltila natolik, že reagovala se zpožděním. "Hmm? Kde?" Zvedla hlavu a rozhlédla se kolem sebe. 
 
-Ztlumil rádio a zavrčel: "Toro… ty vůbec nedáváš pozor na věci kolem sebe."
+Josef ztlumil rádio a zavrčel: "Toro… ty vůbec nedáváš pozor na věci kolem sebe."
 
-Hlavu znovu sklonila. "Abych viděla stádo srnek? Ne, díky." 
+Znovu sklonila hlavu. "Abych viděla stádo srnek? Ne, díky." 
 
-"Ne stádo srnek, ale stáda! Během necelých dvaceti minut!" Její nezájem ho čím dál víc iritoval. 
+"Ne stádo srnek, ale stáda, během necelých dvaceti minut!" Její nezájem ho čím dál víc iritoval. 
 
-Ticho mezi nimi se táhlo, dokud ho Josefův povzdech neodřízl. "Co tam celou dobu čteš?"
+Ticho se mezi nimi táhlo, dokud Josefův povzdech nerozlomil napětí. "Co tam celou dobu čteš?"
 
-Chladně kroutila hlavou, aniž by zvedla oči: "Třeba to, že do **Grundálu**, Jedeme proto, že tam našli tělo mladého chlapce, napůl rozežrané."
+Chladně kroutila hlavou, aniž by zvedla oči: "Třeba to, že do **Grundálu** jedeme proto, že tam našli tělo mladého chlapce, částečně rozežrané."
 
-Oči se mu vykulily, nevěřícně se otočil na Toru a vyhrkl. "My tam jedeme kvůli medvědovi?" V podvědomí věděl, že tomu tak není.
+Oči se mu vykulily. Nevěřícně se otočil na Toru a vyhrkl. "My tam jedeme kvůli medvědovi?" Tušil, že tomu tak není.
 
 Toro si ani nevšimla jeho dětinského výbuchu a začala číst zprávu nahlas:
-"Tak nevím, jestli zrovna medvěd dokáže do těla dostat tmavě zelenou tekutinu, která – a cituji – *rozežrala rukavice jednomu ze záchranářů a při dlouhodobém dýchání v blízkosti způsobila nevolnosti doprovázené zvracením*." Až poté, co to přečetla nahlas, musela papíry odložit. Myšlenka na to, proč jedou, ji začala znervózňovat.
+"Tak nevím, jestli zrovna medvěd dokáže do těla dostat tmavě zelenou tekutinu, která – a cituji – *rozežrala rukavice jednomu ze záchranářů a při dlouhodobém dýchání v blízkosti způsobila nevolnosti doprovázené zvracením*." Až poté, co to přečetla nahlas, musela papíry odložit. Myšlenka na účel cesty ji začala znervózňovat.
 
-"Kyselina? Klasik, vždycky to je kyselina. Snad se to nezvrhne natolik abych musel použít magii" zamumlal, aniž by pohlédl na Toru. Chlupy se mu vztyčily po celém těle. Snad je ta zpráva přehnaná, uklidňoval se, i když tomu sám nevěřil. 
+"Kyselina? Klasik, vždycky to je kyselina. Snad se to nezvrhne natolik, abych musel použít magii" zamumlal, aniž by pohlédl na Toru. Chlupy se mu vztyčily po celém těle. Ta zpráva je určitě přehnaná, uklidňoval se, i když tomu sám nevěřil. 
 
-Pohlédla na něj s drobným úsměvem – takovým tím, který pramení z cizího neštěstí. "Tak Josefe, a důvod, proč zrovna ty tu musíš být, je jednoduchý. Když někdo řekne ředitelovi, cituji, *že je strašnej debil*, člověk se nemůže divit, že dostane takovou práci."
+Tora se na něj podívala s drobným úsměvem – takovým tím, který pramení z cizího neštěstí. "Tak Josefe, a důvod, proč zrovna ty tu musíš být, je jednoduchý. Když někdo řekne ředitelovi – cituji – *že je strašnej debil*, člověk se nemůže divit, že dostane takovou práci."
 
 "Omlouvám se, ale je to debil, jenom mu všichni lezou do prdele," neodpustil si komentář. 
 
@@ -63,15 +63,15 @@ Strážník je zastavil. Ukázali odznak – zlatavá liška se blýskala v odra
 
 Po důkladné kontrole odznaků je samotný vedoucí zavedl na místo činu.
 
-"Avšak naše detektory magie nic nezaznamenali. proč jste tady?" zeptal se policista.
+"Avšak naše detektory magie nic nezaznamenali. Proč jste tady?" zeptal se policista.
 
-"Víte…" Počkal na něj.
+"Víte…" počkal na něj.
 
 "James," odvětil.
 
-"Víte Jamesy, zrovna tato vražda vypadá totožně jako tři ostatní, které se staly v okolí." poznamenal.
+"Víte Jamesi, zrovna tato vražda vypadá totožně jako tři ostatní, které se staly v okolí." poznamenal.
 
-Naklonil se k němu a začal šeptat, "Ale mezi námi. Naštval jsem mého vedoucího, tím že jsem pouze říkal pouze pravdu. No a poslal mě sem jako trest. Takže si myslím, že se není čeho bát." Pousmál se. Věděl, že to je poloviční pravda.
+Naklonil se k němu a začal šeptat, "Ale mezi námi. Naštval jsem svého vedoucího tím, že jsem pouze říkal pravdu. No a poslal mě sem jako trest. Takže si myslím, že se není čeho bát." Pousmál se. Věděl, že to je poloviční pravda.
 
 Pach hnisu sílil s každým krokem. 
 Rozežrané tělo leželo v trávě – bez břicha, bez vnitřností. 
@@ -84,7 +84,7 @@ Cítil, jak se mu tvoří pot na čele.
 Jeho mysl s ním ale hrála triky; sama totiž chtěla utéct. *Nemůžu se otočit jako nějaký zbabělec, to nejsem já!*
 
 Zastavil se a začal úplně jinak přemýšlet – soustředěně. 
-Tělo zcela rozežrané, hlava však neporušená. Při manipulaci vytekla kyselina, jako by chránila svou oběť. Hraje si se svojí obětí? Nebo je to vše vypočítané? 
+Tělo zcela zdevastované. Hlava však neporušená. Při manipulaci vytekla kyselina jako by chránila svou oběť. Hraje si se svojí obětí? Nebo je to vše vypočítané? 
 
 "Jak dlouho tu leží?" otočil se na strážníka. 
 
@@ -94,21 +94,25 @@ Hmm, zelená kůže u ramen, lehce se odlepuje i na nohách. Nemůže tu ležet 
 
 "Děkuji," otočil se a šel k Toře. 
 
-Během cesty řekl strážníkovi: "Musíme počítat s nejhorším scénářem. Vypadá to, že monstrum vyznačuje známky inteligence. Potřebuji, abyste zabezpečili celý les." Jeho sarkasmus zmizel tváří v tvář vážnosti situace.
+Během cesty řekl strážníkovi: "Musíme počítat s nejhorším scénářem. Vypadá to, že monstrum vykazuje známky inteligence. Potřebuji, abyste zabezpečili celý les." Jeho sarkasmus zmizel tváří v tvář vážnosti situace.
 
 "Celý les?" nevěřil svým uším. "Na to nemáme kapacitu, už teďka tady máme skoro všechny."
 
 "Toro!" vykřikl. "Potřebujeme více lidí. Za jak dlouho někdo dorazí?"
 
-Vzala telefon a zavolala na detektivní oddělení Michalovy univerzity. 
+Vzala telefon a zavolala na detektivní oddělení. 
 
 "Dobrý den, zde Toro Milová."
 
 Ženský hlas zazněl z mobilu. "Dobrý den, Toro, s čím vám můžu pomoci?"
 
-"Hlásím kód 24. Za jak dlouho se k nám někdo dostane?" Správně bych měla říct kód 15, ale tohle není ledajaké monstrum.
+"Hlásím kód 24 – Za jak dlouho se k nám někdo dostane?" Správně bych měla říct kód 15, ale tohle není ledajaké monstrum.
 
-"Potvrzuji..." Dlouho se nikdo neozýval. "To je věčnost," potichu si postěžovala. "Váš nadřízený zamítá kód 24, ale schvaluje posily. Očekávaný příjezd zítřek odpoledne."
+"Potvrzuji..." dlouho se nikdo neozýval. 
+
+"To je věčnost," potichu si postěžovala. 
+
+"Váš nadřízený zamítá kód 24, ale schvaluje posily. Očekávaný příjezd zítřek odpoledne."
 
 Dech se jí zastavil. V duchu se uklidňovala. Určitě někdo přijede dřív. "Dobrá, děkuji," položila hovor.
 
@@ -128,60 +132,57 @@ Leo s Davidem promarnili celý den lelkováním v Grundálu. Večer se rozhodli 
 
 "Myslím, že kdybych chtěl, tak divočáka s tímhle zabiju," prohlásil David a zkoumal čepel.
 
-"Vůbec. Než ty ho bodneš, tak tě svalí a budeš rád, že odejdeš s modřinami," vrátil ho do reality.
+"Vůbec. Než ty ho bodneš, tak tě svalí a budeš rád, že odejdeš s modřinami," Pousmál se.
 
 "Nebude mít šanci, koukej, jak jsem rychlej!" máchl nožem ve vzduchu.
 
 "Schovej to, než mi tady něco ufikneš," sykl Leo.
 
-"Mám to pod kontrolou," zastavil čepel pár centimetrů od jeho hrudi a začal se smát.
+"Mám to pod kontrolou," řekl a zastavil čepel pár centimetrů od jeho hrudi a začal se smát.
 
-To dětinské chování ho přestalo bavit. Odhodil jeho ruku a zvýšil hlas, "Dost už."
+To dětinské chování ho přestalo bavit. Odhodil jeho ruku a zvýšil hlas: "Dost už."
 
-Cesta se změnila ve štěrk a před nimi se zvedl les, osvětlený měsícem. Listí šeptalo, vrány krákaly a teplo se ztratilo. Jako by les ožil – a snažil se varovat ostatní. 
+Cesta se změnila ve štěrk a před nimi se zvedl les, osvětlený měsícem. Listí šeptalo. Vrány krákaly. Teplo mizelo. Jako by les ožil – a snažil se varovat ostatní. 
 
-"Viděl jsem na druhé straně policejní auta, nevíš co se stalo?" Davida okolí znepokojovalo a ticho ho znervózňovalo. Musel mysl nějak zaměstnat.
+"Viděl jsem na druhé straně policejní auta, nevíš, co se stalo?" Tiché okolí Davida znepokojovalo a tak musel mysl nějak zaměstnat.
 
-Otočil se na Davida a pokrčil rameny "Nemám tušení. Marco se pár dnů zpátky ztratil – možná ho nehledají?" 
+Otočil se na Davida a pokrčil rameny: "Nemám tušení. Marco se pár dnů zpátky ztratil – možná ho nehledají?" 
 
-Jak to dořekl David ho zastavil. Oči se mu chvěly strachem. "Co dě..." zakryl mu ústa. Před nimi byly slyšet divné zvuky, které rozhodně nepřipomínaly medvěda – spíš kombinaci klapajících zubů a hlubokého vrčení. 
+Jak to dořekl, David ho zastavil. Oči se mu chvěly strachem. "Co dě..." Leo nestačil zareagovat. David mu zakryl ústa. Před nimi byly slyšet divné zvuky, které rozhodně nepřipomínaly medvěda – spíš kombinaci klapajících zubů a hlubokého vrčení. 
 
-Silueta se začala vyjasňovat, její výška se každým krokem zvětšovala. Oba zachvátila instinktivní potřeba utéct. Leovi se začaly třepat ruce, teplo nahradila zima. Leo si stále v hlavě opakoval: *Co mám dělat?* Bledě bílé nohy monstrum táhly blíže a blíže k chlapcům. David stáhl Lea za stromy. 
+Silueta se začala vyjasňovat, její výška se každým krokem zvětšovala. Oba zachvátila instinktivní potřeba utéct. Leovi se začaly třepat ruce, teplo nahradila zima. Leo si stále v hlavě opakoval: *Co mám dělat?* Bledě bílé nohy monstrum táhly blíž k chlapcům. David stáhl Lea za stromy. 
 
-Neustálé klapání čelistí přestalo. Jediné, co Leo slyšel, byl vlastní tlukot srdce. Už je pryč? Jeho zvědavost překonala jeho strach a kouknul se. Křup. Monstrum se objevilo mezi ním a Davidem. 
+Neustálé klapání čelistí přestalo. Jediné, co Leo slyšel, byl vlastní tlukot srdce. *Už je pryč?* Jeho zvědavost překonala jeho strach a kouknul se. Křup. Monstrum se objevilo mezi ním a Davidem. 
 
-David vytáhl nůž a vší silou ho vrazil stvůře do boku. Celý les se otřásl jejím řevem. Dřív než si Leo uvědomil, co se stalo, David se už rozeběhl zpátky k vesnici – a monstrum za ním. "Davide!" vykřikl, ale odpovědí mu bylo jen chrčení a praskání větví
+David vytáhl nůž. Vrazil ho stvůře do boku. Les se otřásl jejím řevem. Leo ani nestačil zareagovat. David se rozeběhl zpátky k vesnici – a monstrum za ním. "Davide!" vykřikl, ale odpovědí mu bylo jen chrčení a praskání větví
 
 Leo vyběhl za Davidem, strach v něm překonala kuráž jeho kamaráda. Na cestě ani živí ani mrtví. 
-Řev. 
-Leo se bezhlavě rozeběhl za zvukem.
-Ticho. 
-Zmateně hledal svého kamaráda. Kde je? Musím ho najít. 
+Řev. Ticho. Leo se hledal Davida.
+*Kde je? Musím ho najít.*
 Jeho přání se mu splnilo. 
-Davidovo tělo bylo obklopené tichem, jež rušilo žvýkání a nárazy zubů. Leo nevěřícně koukal na scénu před sebou – nedokázal si ji vysvětlit. Monstrum vylítlo na Lea takovou rychlostí, že to ani nestihl zaznamenat. Cítil rychlý studený vítr kolem celého těla. 
+Davidovo tělo bylo obklopené tichem, jež rušilo žvýkání a nárazy zubů. Leo nevěřícně koukal na scénu před sebou – nedokázal si ji vysvětlit. Monstrum vylétlo přímo na Lea. Leo ani nestihl reagovat. Cítil rychlý studený vítr kolem celého těla. 
 
-Josef několik set metrů od nich zkoumal stopy. Řev, se rozlehl po celém lese. Sakra. Vší silou se rozeběhl. Dosáhl nadlidské rychlosti. Nejistota mu tkvěla v hlavě. *Prosím, ať to stihnu.* Neustálé vyhýbání větvím a kořenům ho zpomalovalo. Spatřil Lea, který nehybně sledoval svého kamaráda jak je požírán.
+Josef několik set metrů od nich zkoumal stopy. Řev se rozlehl po celém lese. "Sakra!" vykřikl Josef. Rozeběhl se – každým krokem kořeny a větve klouzaly pod jeho nohama, a přesto spěchal. Nejistota mu tkvěla v hlavě. *Prosím, ať to stihnu.* Dosáhl nadlidské rychlosti.
 
 Studený vítr, který cítil, byla zásluha Josefa. Najednou byl Leo jinde. "Promiň, že jsem byl tak pomalý." Omluvil se. Josef svojí nadpřirozenou rychlostí přesunul Lea do bezpečí. Nedostala se mu odpověď. Jeho mysl se navzdory těmto hrůzám vzdala. *To je konec.*
 
 Josef začal nebojácně kráčet k monstru. Ruce se mu začaly třást, ale s pohledem na Davidovo tělo jeho hněv rostl. *Tak a mám tě, ty sráči.*
 
-Příšera se rozeběhla proti němu, každý krok zněl jako válečné bubny smrti doprovázené chrčením. Vytasil katanu, která se rozzářila barvami polární záře. Ruce se mu uklidnily. Baráž útoků perfektně vyblokoval. Tam kde byla šance tak udeřil. 
+Příšera se rozeběhla proti němu. Každý její krok zněl jako válečné bubny smrti doprovázené chrčením. Vytasil katanu, která se rozzářila barvami polární záře. Uklidnil se a baráž útoků perfektně vyblokoval. Tam, kde byla šance, tam udeřil. 
 
-Najednou odskočil a katana ztratila záři. Monstrum vyběhlo na něj, mezitím se kolem něj objevila polární záře. Zelená krev stříkala. Josefovy útoky se zopakovaly. Netvor ležel na zemi. Mrtvý.
+Najednou Josef odskočil a katana ztratila záři. Monstrum vyběhlo na něj, a mezitím se kolem něj objevila polární záře. Zelená krev stříkala. Josefovy útoky se zopakovaly. Netvor ležel na zemi. Mrtvý.
 
-Josef se otočil a běžel za Leem. Zastavil se v půli cesty. Jeho vize se mu rozostřila. *Sakra, přehnal jsem to.* Začal plivat krev a omdlel.
+Josef se otočil a běžel za Leem. Zastavil se v půli cesty. Jeho vize se mu rozostřila. *Sakra, přehnal jsem to.* Začal plivat krev. Poté omdlel.
 
-Leo viděl, jak spadl na zem, a to ho dostalo z jeho tranzu. Vyběhl za ním. Začal hledat všelijaké škrábance. Všechny co našel nebyly hluboké. 
+Leo viděl, jak spadl na zem, a to ho dostalo z jeho tranzu. Vyběhl za ním. Začal hledat všelijaké škrábance. Všechny, co našel, nebyly hluboké. 
 
-Přiběhla k nim Tora. Klekla si a začala analyzovat Josefa. Oči jí lítaly sem a tam. Ruce zvedaly jeho končetiny. *Dýchání – zrychlené. Ruce – drobné škrábance. Nohy – v pořádku. Trup – v celku.* Začala panikařit *Josefe, prosím tě, co ti je?*
+Přiběhla k nim Tora. Klekla si a začala analyzovat Josefa. Oči jí lítaly sem a tam, ruce zvedaly jeho končetiny. *Dýchání – zrychlené. Ruce – drobné škrábance. Nohy – v pořádku. Trup – v celku.* Začala panikařit *Josefe, prosím tě, co ti je?*
 
-"Co se děje, najednou začal plivat krev?" začal panikařit.
+"Co se děje? Najednou začal plivat krev a zkolaboval." Leo začal vyšilovat.
 
-"Buď je otrávený… nebo použil moc magie," začala vytahovat mobil. 
+"Buď je otrávený nebo použil moc magie," začala vytahovat mobil. 
 
-Kašel. 
-Josef začal s kašlem přicházet zpět. "Jseš v pořádku?" s děsem v očích se ho zeptala. 
+Josef začal s kašlem přicházet zpět na Zem. "Jseš v pořádku?" zeptala se ho s děsem v očích.
 
 "Jo…" odkašlal si. "Jen jsem to trochu přehnal."
 
