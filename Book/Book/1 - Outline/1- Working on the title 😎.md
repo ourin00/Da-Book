@@ -14,7 +14,7 @@ Ourin
 
 Východ slunce pozlatil krajinu, kterou projíždělo černé auto po rozbité silnici. Po dlouhé cestě Josef zpozorněl.
 
-"To je snad páté stádo srnek, co jsme potkali," zamumlal nevěřícně. Po zádech mu přeběhl mráz.
+"To je snad páté stádo srnek, co jsme potkali," zamumlal nevěřícně.
 
 Vedle něj seděla Tora, ponořená do hromady papírů. Prsty obracela stránky sem a tam, jako by si skládala mapu událostí. 
 
@@ -40,6 +40,12 @@ Toro si ani nevšimla jeho dětinského výbuchu a začala číst zprávu nahlas
 Tora se na něj podívala s drobným úsměvem – takovým tím, který pramení z cizího neštěstí. "Tak Josefe, a důvod, proč zrovna ty tu musíš být, je jednoduchý. Když někdo řekne ředitelovi – cituji – *že je strašnej debil*, člověk se nemůže divit, že dostane takovou práci."
 
 "Omlouvám se, ale je to debil, jenom mu všichni lezou do prdele," neodpustil si komentář. 
+
+Ruce opakovaně mlátil o volant. "Když mu nikdo neřekne, že poslat dva nováčky do zahraničí – do těch zasranej katakomb – nebyl zrovna nejlepší nápad. Tak já tam nebudu stát a říkat mu, že je nejlepší ředitel za posledních dvě stě let."
+
+"No já vím, že vy dva se nemáte rádi dlouho. Ale já mu třeba do prdele nelezu." Snažila se ho lehce uklidnit.
+
+"A proto seš tady taky se mnou." 
 
 Zanedlouho dorazili do Grundálu. Listnáče lemující cestu působily až příliš klidně – jako by se samy snažily zapomenout, co se stalo. Zaparkovali na náměstí, uprostřed něhož se tyčila mramorová kašna. 
 
@@ -81,22 +87,24 @@ Josef pokračoval, oči mu slzely, tep se zrychloval.
 Cítil, jak se mu tvoří pot na čele. 
 Jeho mysl s ním ale hrála triky; sama totiž chtěla utéct.
 
-Zastavil se a začal úplně jinak přemýšlet – soustředěně. 
-*Tělo zcela zdevastované. Hlava však neporušená. Při manipulaci vytekla kyselina, jako by chránila svou oběť – jasně cíleně, ne náhodně. **
+Zastavil se a jeho přemýšlení se změnilo – soustředěně. 
+*Tělo zcela zdevastované. Hlava však neporušená. Při manipulaci vytekla kyselina, jako by chránila svou oběť – jasně cíleně, ne náhodně.*
 
 "Jak dlouho tu leží?" otočil se na strážníka. 
 
 "Našli jsme ho včera večer," zamumlal skrze roušku.
 
-Hmm, zelená kůže u ramen, lehce se odlepuje i na nohách. Nemůže tu ležet déle než tři dny.
+Tora se zamyslela: "Hmm, zelená kůže u ramen, lehce se odlepuje i na nohách. Nemůže tu ležet déle než tři dny." 
 
-"Děkuji," otočil se a šel k Toře. 
-
-Během cesty řekl strážníkovi: "Musíme počítat s nejhorším scénářem. Vypadá to, že monstrum vykazuje známky inteligence. Potřebuji, abyste zajistili obvod lesa." Jeho sarkasmus zmizel tváří v tvář vážnosti situace.
+Otočila se ke strážníkovi: "Musíme počítat s nejhorším scénářem. Vypadá to, že monstrum vykazuje známky inteligence. Potřebuji, abyste zajistili obvod lesa." 
 
 "Celý les?" nevěřil svým uším. "Na to nemáme kapacitu, už teďka tady máme skoro všechny."
 
-"Toro!" vykřikl. "Potřebujeme více lidí. Za jak dlouho někdo dorazí?"
+"Tak od váš potřebuji alespoň tento okruh. Je to možné?" obkroužila místo vraždy rukou.
+
+Na chvilku se zamyslel. "No možné to bude," řekl s odporem. 
+
+"Toro!" vykřikl Josef. "Potřebujeme více lidí. Za jak dlouho někdo dorazí?"
 
 Vzala telefon a zavolala na detektivní oddělení. 
 
@@ -114,7 +122,11 @@ Vzala telefon a zavolala na detektivní oddělení.
 
 Dech se jí zastavil. V duchu se uklidňovala. Určitě někdo přijede dřív. "Dobrá, děkuji," položila hovor.
 
-Zvedla pohled na Josefa. "Nejdřív zítra odpoledne… ale někdo dorazí dřív, ne?"
+Zvedla pohled na Josefa, který k ní mezitím došel. "Vypadá to že dneska jsme na to jenom my dva."
+
+"Nevíme co to je za monstrum, ale stejně bych se rozdělila."
+
+Josef souhlasně kývnul hlavou.
 
 Sklonil hlavu. "Dojdu si pro katanu," dodal chladně. "Připrav se, budeme muset použít magii."
 
@@ -133,6 +145,8 @@ Leo s Davidem promarnili celý den lelkováním v Grundálu. Večer se rozhodli 
 "Myslím, že kdybych chtěl, tak divočáka s tímhle zabiju," prohlásil David a máchal nožem před Leem.
 
 Odhodil jeho ruku a zvýšil hlas: "Až na to, že vůbec."
+
+David ještě dalších deset minut si hrál s nožem a povídal co všechno s ním udělá. Leo zeleň kolem sebe a mlčenlivě přikyvoval.
 
 Cesta se změnila ve štěrk a před nimi se zvedl les, osvětlený měsícem. Listí šeptalo. Vrány krákaly. Teplo mizelo. Jako by les ožil – a snažil se varovat ostatní. 
 
@@ -156,13 +170,14 @@ Davidovo tělo bylo obklopené tichem, jež rušilo žvýkání a nárazy zubů.
 
 Josef několik set metrů od nich zkoumal stopy. Řev se rozlehl po celém lese. "Sakra!" vykřikl Josef. Rozeběhl se – každým krokem kořeny a větve klouzaly pod jeho nohama, a přesto spěchal. Nejistota mu tkvěla v hlavě. *Prosím, ať to stihnu.* Dosáhl nadlidské rychlosti.
 
-Studený vítr — efekt Josefovy rychlosti — dolehl. Najednou se ocitl Leo v bezpečí za ním. 'Promiň, že jsem byl tak pomalý,' zašeptal Josef. Nedostala se mu odpověď. Jeho mysl se navzdory těmto hrůzám vzdala. *To je konec.*
+Studený vítr — efekt Josefovy rychlosti — dolehl. Najednou se ocitl Leo v bezpečí za ním. "Seš v pořádku?"  zeptal se Josef. Nedostala se mu odpověď. Jeho mysl se navzdory těmto hrůzám vzdala: *To je konec.* 
 
-Josef nebojácně kráčel k monstru. Ruce se mu rozechvěly, ale s pohledem na Davidovo tělo jeho hněv rostl. *Tak a mám tě, ty sráči.*
+Josef nebojácně kráčel k monstru. To ztichlo a znehybnělo, jako predátor sledující kořist.  
+Nebylo to vědomé pozorování — spíš chladný instinkt, který trval na tom, aby žádný pohyb neunikl. Ruce se mu rozechvěly, ale s pohledem na Davidovo tělo jeho hněv rostl. *Tak a mám tě, ty sráči.*
 
 Příšera se rozeběhla proti němu. Listí za ní pouze šumělo; každý krok byl doprovázen klepáním čelistí, cvakající a pravidelný. Josef vytasil katanu; její ocel se třela o pouzdro a okamžitě ji obalily barvy polární záře. Hluboký nádech. Klid. 
 
-Útoky příšery dopadaly jeden za druhým. Vrčení se mísilo s kovovým cinkáním oceli, když drápy narážely na ostří. Jejich pohyby se slévaly do syčícího víru, který prorážel les jako útočící sokol. *Kolik toho ještě vydrží?* blesklo mu hlavou.
+Útoky padaly jeden za druhým. Vrčení se mísilo s kovovým cinkáním oceli, když drápy narážely na ostří. Jejich pohyby se slévaly do syčícího víru, který prorážel les jako útočící sokol. *Kolik toho ještě vydrží?* blesklo mu hlavou.
 
 Když se objevila sebemenší příležitost, udeřil. Štiplavý pach se stupňoval s každým úspěšným zásahem. *Sakra, už uběhlo víc než třicet sekund. Musím to rychle ukončit, nebo zase zkolabuju.*
 
@@ -172,7 +187,7 @@ Zůstalo jen to, co z něj zbývalo. Mrtvé.
 
 Josef se otočil a běžel za Leem. Zastavil se v půli cesty. Jeho vize se mu rozostřila. *Sakra*. Začal plivat krev a omdlel.
 
-Leo viděl, jak spadl na zem, a to ho dostalo z jeho transu. Vyběhl za ním. Zakopl sám o vlastní nohu. Adrenalin došel a síla z nohou mu zmizela. Celý svět se mu točil, nemohl se pohnout. 
+Leo viděl, jak spadl na zem, a to ho dostalo z jeho transu. Vyběhl za ním. Zakopl sám o vlastní nohu. Adrenalin došel a síla z nohou mu zmizela. Celý svět se mu točil a nemohl se pohnout. 
 
 Přiběhla k nim Tora. Klekla si a analyzovala Lea. Oči jí lítaly sem a tam, ruce zvedaly jeho končetiny. *Dýchání – zrychlené. Ruce – drobné škrábance. Nohy – v pořádku. Trup – v celku.* 
 
@@ -192,13 +207,31 @@ Zvedla se a co nejrychleji běžela za Josefem.
 
 Hledala hluboká zranění, nebo alespoň nějakou indicii, proč krvácí. *Nic nemůžu najít. To je špatný... že by vnitřně krvácel?*
 
-Josef s kašlem přicházel zpět na Zem. "Jseš v pořádku?" zeptala se ho s děsem v očích.
+Josef s kašlem přicházel zpět na Zem. "Seš v pořádku?" zeptala se ho s děsem v očích.
 
 "Jo…" odkašlal si. "Jen jsem to trochu přehnal." Celé tělo ho bolelo; nemohl se ani sám zvednout.
 
-## Podkapitola 3
+"Jak je na tom?" kývnul hlavou na Lea.
 
+"Vypadá, že je v pořádku," uklidňovala ho.
 
+Posadila ho blízko Lea o kmen stromu. 
+## Listí zpívá tragédii, ale nikdo neposlouchá
+
+Ani jeden z nich dnes nechtěl vidět policejní majáky. Z většiny symbol ochrany, tentokrát připomínka smrti. 
+
+Za minutu byla slyšet siréna záchranky, která ihned převezla Lea a Josefa do nejbližší nemocnice.
+
+Poté, co se ten chaos trochu uklidnil, se Tora vydala za Jamesem.
+
+"Pane Jamesi," poklepala mu na rameno. 
+
+Strážník z včerejšího odpoledne se otočil. "Ah, Toro, koukám, že alespoň vy jste v pořádku. Co pro vás můžu udělat?" 
+
+"Máme nějaké info o těch mládencích?" 
+
+"Leo Piotrowski," ukázal tužkou na odjíždějící záchranku.
+Otočil se a ukázal na druhého: "A tady David Pirtl." Sundal si čepici. ",Chudák."
 # Kapitola 2
 ___
 Byl pátek odpoledne. Mraky odcestovaly na dovolenou a nebe obsadila světle modrá obloha, která k horizontu pozvolna bledla. 
