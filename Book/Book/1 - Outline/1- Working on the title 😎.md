@@ -213,7 +213,7 @@ Podepřela ho a pomalu vedla za Leem. "Ah," zprudka rozdýchával bolest. "Tak m
 Opatrně ho dovedla k Leovi a opřela o kmen stromu.
 ## Listí zpívá tragédii, ale nikdo neposlouchá
 
-Ani jeden z nich dnes nechtěl vidět policejní majáky. Z většiny symbol ochrany, tentokrát připomínka smrti. 
+Ani jeden z nich dnes nechtěl vidět policejní majáky. Většinou symbol ochrany, dnes připomínka smrti. 
 
 Za minutu byla slyšet siréna záchranky, která ihned převezla Lea a Josefa do nejbližší nemocnice.
 
@@ -221,14 +221,23 @@ Když se chaos konečně uklidnil, Tora se vydala za Jamesem.
 
 "Pane Jamesi," poklepala mu na rameno. 
 
-Strážník z včerejšího odpoledne se otočil. "Ah, Toro, koukám, že alespoň vy jste v pořádku. Co pro vás můžu udělat?" 
+Strážník z včerejšího odpoledne se otočil. "Ah, Toro, koukám, že jste v pořádku. Co potřebujete?" 
 
 "Máme nějaké info o těch mládencích?" 
 
-"Leo Piotrowski," ukázal tužkou na odjíždějící záchranku.
-Otočil se a ukázal na druhého: "A tady David Pirtl." Sundal si čepici. ",Chudák."
+"Leo Piotrowski," ukázal tužkou na odjíždějící záchranku. Pak přejel na druhého: "A tady David Pirtl." Sundal si čepici, "Chudák."
 
+"Víte kde oba bydlí?" ,vytáhla malý notes a začala do něj psát.
 
+"David bydlí blízko náměstí. Velký dvoupatrový dům." "Leo pár set metrů od něj, blízko školy, nemůžete minout." Zbrkle vytáhl mobil z kapsy. "Zde a zde." 
+
+Upřel pohled na Toru. "Podle otázek si troufám říct, že budete posel špatných zpráv." V očích měl soustrast a pochopení – už to zažil.
+
+"Bohužel," zavřela notes s takovou silou, že James lehce nadskočil. Pak mu podala ruku, "Jamesi vidím, že to máte vše pod kontrolou."  
+
+Váhavě jí podal ruku, "Paní Toro, nemyslíte, že byste si měla odpočinout? Ty zprávy klidně předám já." 
+
+"Ne, ne," odmítavě mávala rukama. "Jsem v pořádku." *Však jsem tu ani nebyla.* Vztek jí proudil celým tělem.    
 
 _Obětavý muž se ocitá v mělkých vodách.  
 Rozhlíží se kolem sebe,  
