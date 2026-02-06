@@ -237,7 +237,12 @@ Upřel pohled na Toru. "Podle otázek si troufám říct, že budete posel špat
 
 Váhavě jí podal ruku, "Paní Toro, nemyslíte, že byste si měla odpočinout? Ty zprávy klidně předám já." 
 
-"Ne, ne," odmítavě mávala rukama. "Jsem v pořádku." *Však jsem tu ani nebyla.* Vztek jí proudil celým tělem.    
+"Ne, ne," odmítavě mávala rukama. "Jsem v pořádku." *Však jsem tu ani nebyla.* 
+
+Světlo blikajících majáku se každým krokem zmírňovalo. 
+
+
+
 
 _Obětavý muž se ocitá v mělkých vodách.  
 Rozhlíží se kolem sebe,  
