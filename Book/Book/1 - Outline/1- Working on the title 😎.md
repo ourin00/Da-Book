@@ -237,11 +237,15 @@ Upřel pohled na Toru. "Podle otázek si troufám říct, že budete posel špat
 
 Váhavě jí podal ruku, "Paní Toro, nemyslíte, že byste si měla odpočinout? Ty zprávy klidně předám já." 
 
-"Ne, ne," odmítavě mávala rukama. "Jsem v pořádku." *Však jsem tu ani nebyla.* 
+"Ne, ne," odmítavě mávala rukama. "Jsem v pořádku," usmála se vynuceně.
 
-Světlo blikajících majáku se každým krokem zmírňovalo. 
+Bez váhání se otočila a zamířila k vesnici. Hnědé oči bezmocně hleděly do tmy, která ji každým krokem hlouběji obklopovala. 
 
+Žár na srdci pálil. Krk se svíral. A slzy chtěly uhasit požár, ale jen tiše stékaly po tvářích.
 
+Najednou stála před dveřmi. celá cesta jí splynula jako jeden mlhavý sen. 
+
+Snažila se zazvonit ale ruce se jí chvěli. Hluboké nádechy byly přerušovány  
 
 
 _Obětavý muž se ocitá v mělkých vodách.  
